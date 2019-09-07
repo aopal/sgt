@@ -8,11 +8,7 @@
     - [Aftermath of the Shattering](#aftermath-of-the-shattering)
     - [Description](#description)
     - [Factions](#factions)
-      - [The Cult of the Shattered god](#the-cult-of-the-shattered-god)
       - [The Merchants of Adventure](#the-merchants-of-adventure)
-      - [The Priests of Ebor](#the-priests-of-ebor)
-      - [The Lirian Embassy](#the-lirian-embassy)
-      - [The Wild Embassy](#the-wild-embassy)
     - [Characters](#characters)
     - [Locations & Landmarks](#locations--landmarks)
       - [Hope's Rock](#hopes-rock)
@@ -87,31 +83,30 @@ The Town of Hope's Rock was founded on the western edge of the Tomb. Serviced by
 
 ### Factions
 
-(To be expanded)
+(To be expanded) 
 
-#### The Cult of the Shattered god
 
-Founded by explorers in the Catacombs. They worship the fallen god of war, Immog, who they believe is not fully dead yet. Do not take kindly to open worship of other gods, and are particularly not fond of the Priests of Ebor.
+<!-- #### The Cult of the Shattered god
+
+Founded by explorers in the Catacombs. They worship the fallen god of war, Immog, who they believe is not fully dead yet. Do not take kindly to open worship of other gods, and are particularly not fond of the Priests of Ebor. -->
 
 #### The Merchants of Adventure
 The organization made up of Caesalan merchants and engineers that built both the town of Hope's Rock and the Grand Lift. Widely viewed as greedy bureaucrats, they are famously crafty, but will stick to their word.
 
-#### The Priests of Ebor
-Group of priests of the god of peace. Led by Bishop Ormen, they seek to find any truth to the rumors that Immog yet lives. They do not take kindly to the shattered cult.
+<!-- #### The Priests of Ebor
+Group of priests of the god of peace. Led by Bishop Ormen, they seek to find any truth to the rumors that Immog yet lives. They do not take kindly to the shattered cult. -->
 
-#### The Lirian Embassy
-Agents of the Free City of Liria, searching the Catacombs for any and all enchanted objects, especially those extremely powerful artifacts they can learn new magic from. Some claim they are especially interested in the magical weapons, hoping to build up an arsenal to increase Liria's domain.
+<!-- #### The Lirian Embassy
+Agents of the Free City of Liria, searching the Catacombs for any and all enchanted objects, especially those extremely powerful artifacts they can learn new magic from. Some claim they are especially interested in the magical weapons, hoping to build up an arsenal to increase Liria's domain. -->
 
-#### The Wild Embassy
-Not actually an official delegation, but a collection of inhabitants from the Wild Kingdom that seek to find rare creatures in the Tomb. Many people
+<!-- #### The Wild Embassy
+Not actually an official delegation, but a collection of inhabitants from the Wild Kingdom that seek to find rare creatures in the Tomb. Many people say that never before seen monsters are in the Tomb, the inhabitants of the wild hope to find members of species once thought extinct. -->
 
 ### Characters
 
-To be added later. 
+(forthcoming) 
 
 ### Locations & Landmarks
-
-(To be expanded)
 
 #### Hope's Rock
 (Map forthcoming)
@@ -181,10 +176,10 @@ Located in an area of plains, prairies and forests all abounding with life, by f
 The god Kithcaryn is unique in residing on the mortal plane. They rule their country directly from their palace in the city of Marroux. It is unknown who or what they were in their life before achieving godhood, as the god is always seen wearing armor made of an opaque sky-blue crystal. All that is known is that they are humanoid, as even reports of their height, from the few times non-priests are granted audiences, vary.
 
 #### The free city of Liria 
-Liria (LEER-ee-uh) is a city state on the north-eastern coast of Athol ruled by a cabal of wizards and sorcerors. Once the capital of Mikhesal, after the shattering a group of powerful magic users seized control. It is unknown where these mages came from, as with how powerful they were, they ought to have been at the battle if they hailed from Mikhesal. Opposed to warlocks, druids, clerics and most gods, as they do not wish to invite meddling by outside magical forces. The only magic allowed is innate or self-learned magic including tha magic of bards, rangers, rogues and monks. The only gods allowed to be worshipped are those whom the cabal approves of - usually those gods with whom the leaders have spoken to and written up an explicit treaty, detailing what can be preached and what rites and magic can be invoked in the city. The leaders keep the true extent of their power as hidden as possible, but from what is known they could easily frustrate the schemes of gods, if not directly compete with some.
+Liria (LEER-ee-uh) is a city state on the north-eastern coast of Athol ruled by a cabal of wizards and sorcerors. Once the capital of Mikhesal, after the shattering a group of powerful magic users seized control. It is unknown where these mages came from, as with how powerful they were, they ought to have been at the battle if they hailed from Mikhesal. Opposed to warlocks, druids, clerics and most gods, as they do not wish to invite meddling by outside magical forces. The only magic allowed is innate or self-learned magic including the magic of bards, rangers, rogues and monks. The only gods allowed to be worshipped are those whom the cabal approves of - usually those gods with whom the leaders have spoken to and written up an explicit treaty, detailing what can be preached and what rites and magic can be invoked in the city. The leaders keep the true extent of their power as hidden as possible, but from what is known they could easily frustrate the schemes of gods, if not directly compete with some.
 
 #### The Federation of Caesal
-In contrast to Liria, Caesal (KAY-sahl) is a free duchy founded by a mage-killer hero (Lilnia "Blink" Chaemenor, female half-elf) in the wake of the Shattering that is opposed to magic, including most gods. Located on the western edge of Athol and close to Evras, they believe magic and the gods is what has held the mortal races back from true greatness, and is the cause of the fall of civilizations, and their knowledge with them. The fall of Mikhesal which led to the founding of Caesal is prime evidence of this to their mind.
+In contrast to Liria, Caesal (KAY-sahl) is a free duchy founded by a mage-killer hero (Lilnia "Blink" Chaemenor, female half-elf) in the wake of the Shattering that is opposed to magic, including most gods. Located on the western edge of Athol and close to Evras, they believe magic and the gods is what has held mortals back from true greatness, and is the cause of the fall of civilizations, and their knowledge with them. The fall of Mikhesal which led to the founding of Caesal is prime evidence of this to the mind of most Caesalans.
 
 Caesal is an oligarchy controlled by prominent scholars, and merchants, no nobility or aristocrats. Highly value philosophy, the sciences, engineering and physical prowess. Magic is allowed so long as it is in the pursuit of furthering the understanding of the world, not simply power. Caesalans views magic much like fire: extremely dangerous, volatile, and likely to cause destruction if left unchecked, but useful and worth the risk if controlled and used only with sufficient expertise. Licenses to practice magic and alchemy can be acquired through some difficulty. Clerics and warlocks can still acquire these licenses as the Caesalans are not opposed to leveraging gifts of power granted from outside sources, though some internal factions question the wisdom of this. Their strict control of magic within their borders is enforced by an elite force of mage-killers colloquially known as Blinkers, named after the founder's nickname of Blink. Lilnia got this nickname due to her extreme speed, use of stealth, and how the magical aura of her targets would simply blink out of existence
 
