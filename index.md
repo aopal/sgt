@@ -1,31 +1,31 @@
 # The Shattered God's Tomb
 
 - [The Shattered God's Tomb](#the-shattered-gods-tomb)
-  - [Introduction](#introduction)
-  - [The World](#the-world)
-  - [The Shattered God's Tomb](#the-shattered-gods-tomb-1)
-    - [History](#history)
-    - [Aftermath of the Shattering](#aftermath-of-the-shattering)
-    - [Description](#description)
-    - [Factions](#factions)
-      - [The Merchants of Adventure](#the-merchants-of-adventure)
-    - [Characters](#characters)
-    - [Locations & Landmarks](#locations--landmarks)
-      - [Hope's Rock](#hopes-rock)
-      - [The Lower Rock](#the-lower-rock)
-      - [The Hope](#the-hope)
-    - [Miscellaneous](#miscellaneous)
-      - [Vidrite](#vidrite)
-      - [Heroes](#heroes)
-  - [Appendix A: Species](#appendix-a-species)
-  - [Appendix B: Cultures & Civilizations](#appendix-b-cultures--civilizations)
-      - [The Divine Kingdom of Kithcaryn](#the-divine-kingdom-of-kithcaryn)
-      - [The free city of Liria](#the-free-city-of-liria)
-      - [The Federation of Caesal](#the-federation-of-caesal)
-      - [The Wild Kingdom](#the-wild-kingdom)
-  - [Appendix C: Gods](#appendix-c-gods)
-      - [Current pantheon](#current-pantheon)
-      - [Deceased/forgotten/un-worshipped gods](#deceasedforgottenun-worshipped-gods)
+	- [Introduction](#introduction)
+	- [The World](#the-world)
+	- [The Shattered God's Tomb](#the-shattered-gods-tomb-1)
+		- [History](#history)
+		- [Aftermath of the Shattering](#aftermath-of-the-shattering)
+		- [Description](#description)
+		- [Factions](#factions)
+			- [The Merchants of Adventure](#the-merchants-of-adventure)
+		- [Characters](#characters)
+		- [Locations & Landmarks](#locations--landmarks)
+			- [Hope's Rock](#hopes-rock)
+			- [The Lower Rock](#the-lower-rock)
+			- [The Hope](#the-hope)
+		- [Miscellaneous](#miscellaneous)
+			- [Vidrite](#vidrite)
+			- [Heroes](#heroes)
+	- [Appendix A: Species](#appendix-a-species)
+	- [Appendix B: Cultures & Civilizations](#appendix-b-cultures--civilizations)
+			- [The Divine Kingdom of Kithcaryn](#the-divine-kingdom-of-kithcaryn)
+			- [The free city of Liria](#the-free-city-of-liria)
+			- [The Federation of Caesal](#the-federation-of-caesal)
+			- [The Wild Kingdom](#the-wild-kingdom)
+	- [Appendix C: Gods](#appendix-c-gods)
+			- [Current pantheon](#current-pantheon)
+			- [Deceased/forgotten/un-worshipped gods](#deceasedforgottenun-worshipped-gods)
 
 ## Introduction
 
@@ -110,6 +110,7 @@ Not actually an official delegation, but a collection of inhabitants from the Wi
 
 #### Hope's Rock
 (Map forthcoming)
+
 The town surrounding the Grand Lift. Separated into the Upper Rock at the top of the lift, and the Lower Rock at its base. Named after the huge vidrite boulder, of the same material of the walls of the cliffs, next to which resides the lift. The Upper Rock is far smaller, mostly only for unloading supplies to be sent to the Lower Rock. The lower rock is far larger and centered around the meeting of 3 canyons, resulting in the three major (and only) streets of the lower town. 
 
 #### The Lower Rock
@@ -194,41 +195,41 @@ Few travellers from the outside world visit the kingdom beyond the small village
 
 #### Current pantheon
 
-| Name		|	Title							| Alignment		| Symbol					| Species		|
-|---		|---								|---			|---						|---			|
-|			| God of Death						| LN			| None						| Unknown		|
-| Ilin		| Lord of Luck						| CN			| 							| Half-elf		|
-| Ebor		| God of Peace						| NG			| A shield					| Unknown		|
-| Achiel	| God of Tragedy					| CE			| 3 tear drops				| Elf			|
-| Sandard	| God of War						| LE			| 							| Direwolf		|
-|			| God of Storms						| NE			| A lightning bolt			| Storm Giant	|
-|			| God of The Sea					| CN			| 							| Human			|
-| Maha		| Goddess of Nature					| CG			| 							| Halfling		|
-| Galungal	| God of The Sky					| NG			| 							| Dragon		|
-| Gagdar	| God of The Earth					| LN			| 							| Dwarf			|
-| Sarabu	| God of Decay						| LE			| A maggot					| Dragonborn	|
-| Finde		| Goddess of Health					| LG			| 							| Unknown		|
-|			| God of Pestilence					| NE			| 							| Unknown		|
-|			| God of Discovery					| CG			| 							| Tabaxi		|
-|			| God of Dreams & Nightmares		| LE			| 							| Mind Flayer	|
-|			| God of Wine and Merriment			| CN			| 							| Halfling		|
-| Baltha	| God of Deception					| CE			| None						| Kenku			|
-| Kasdail	| God of Courage & Valor			| LG			| A golden heart			| Goliath		|
-| Akkum		| God of Justice					| LN			| Iron scales				| Unknown		|
-|			| Patron of Thieves					| CN			| A key						| Unknown		|
-|			| Patron of Hunters					| N				| A silver bow				| Wood-elf		|
-|			| The Beggar God					| CG			| A cracked wooden bowl		| Unknown		|
-|			| The Immortal Poet					| NG			| A lute & feather pen		| Unknown		|
-|	Kithcaryn	| The God-King of Kithcaryn			| CG			| 							| Unknown	|
-|			| The Father						| N				| 							| Human			|
-| Immog		| The Shattered God					| NE			| A cracked fang			| Red Dragon	|
+| Name			|	Title							| Alignment		| Symbol					| Domain				| Species		|
+|---			|---								|---			|---						|---					|---			|
+|				| God of Death						| LN			| None						| Death					| Unknown		|
+| Ilin			| Lord of Luck						| CN			| 							| Trickery				| Half-elf		|
+| Ebor			| God of Peace						| NG			| A shield					| Life, Knowledge		| Unknown		|
+| Achiel		| God of Tragedy					| CE			| 3 tear drops				| Trickery, Death		| Elf			|
+| Sandard		| God of War						| LE			| 							| War					| Direwolf		|
+|				| God of Storms						| NE			| A lightning bolt			| Tempest				| Storm Giant	|
+|				| God of The Sea					| CN			| 							| Tempest, Nature		| Human			|
+| Maha			| Goddess of Nature					| CG			| 							| Nature, Life			| Halfling		|
+| Galungal		| God of The Sky					| NG			| 							| Nature, Tempest		| Dragon		|
+| Gagdar		| God of The Earth					| LN			| 							| Nature				| Dwarf			|
+| Sarabu		| God of Decay						| LE			| A maggot					| Death					| Dragonborn	|
+| Finde			| Goddess of Health					| LG			| 							| Life					| Unknown		|
+|				| God of Pestilence					| NE			| 							| Death, Nature			| Unknown		|
+|				| God of Discovery					| CG			| 							| Nature, knowledge		| Tabaxi		|
+|				| God of Dreams & Nightmares		| LE			| 							| Trickery, Knowledge	| Mind Flayer	|
+|				| God of Wine and Merriment			| CN			| 							| Life, Nature			| Halfling		|
+| Baltha		| God of Deception					| CE			| None						| Trickery				| Kenku			|
+| Kasdail		| God of Courage & Valor			| LG			| A golden heart			| Light, War			| Goliath		|
+| Akkum			| God of Justice					| LN			| Iron scales				| Light, Knowledge		| Unknown		|
+|				| Patron of Thieves					| CN			| A key						| Trickery				| Unknown		|
+|				| Patron of Hunters					| N				| A silver bow				| Nature				| Wood-elf		|
+|				| The Beggar God					| CG			| A cracked wooden bowl		| Life					| Unknown		|
+|				| The Immortal Poet					| NG			| A lute & feather pen		| Light, Knowledge		| Unknown		|
+| Kithcaryn		| The God-King of Kithcaryn			| CG			| 							| Trickery, Knowledge	| Unknown		|
+|				| The Father						| N				| 							| Life, War				| Human			|
+| Immog			| The Shattered God					| NE			| A cracked fang			| Unknown				| Red Dragon	|
 
 #### Deceased/forgotten/un-worshipped gods
 
-| Name		|	Title							| Alignment		| Symbol					| Species		|
-|---		|---								|---			|---						|---			|
-|			| God of War						| LN			| None						| Orc			|
-| Immog		| God of War						| NE			| A fiery fang				| Red Dragon	|
-|			| God of War						| N				| None						| Giant			|
-|			| God of War						| NE			| None						| Lion			|
-| Unknown	| Patron god of the Kenku			| Unknown		| Unknown					| Unknown		|
+| Name			|	Title							| Alignment		| Symbol					|					| Species		|
+|---			|---								|---			|---						|					|---			|
+|				| God of War						| LN			| None						| War				| Orc			|
+| Immog			| God of War						| NE			| A fiery fang				| War, Death		| Red Dragon	|
+|				| God of War						| N				| None						| War				| Giant			|
+|				| God of War						| NE			| None						| War				| Lion			|
+| Unknown		| Patron god of the Kenku			| Unknown		| Unknown					| Unknown			| Unknown		|
