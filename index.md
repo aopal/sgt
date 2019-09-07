@@ -49,6 +49,8 @@ Relatedly, if there's something not in the PHB that you really want to play, fee
 
 (There are no icons/borders/labels on the map because I'm still fleshing out the larger world)
 
+Note that you will not have this entire map to explore, only a small section (12-15 hexes of it) around the Shattered God's Tomb
+
 The Shattered God's Tomb is located on the continent of Athol (ATH-all), west of which is the continent Evras (ev-RASS). The continents have been populated for much longer than recorded history, having seen the rise and fall of numerous civilizations, many of whom unfortunately took their knowledge with them. 
 
 Change, some might call it chaos, is the defining trait of Atholian and Evrasian history. Nearly every city is built on the ruins of a far older one, if not many older ones. Few large empires or kingdoms endure more than a scant handful of centuries. Whether by internal stress, war with another nation, or the meddling of a god, mortal attempts at greatness don't seem to last long. The present state of the two continents reflects this; there are only a couple of large kingdoms, and young ones at that. Smaller duchies and city states abound instead.
@@ -77,7 +79,7 @@ The continent of Athol, after the regime that controlled much of it vanished ove
 
 ### Description
 
-A maze of extremely deep sheer canyons, formed by the immense power released at Immog's shattering also breaking the bedrock (for those who read Sanderson, yes it's partially inspired by the shattered plains). The lower walls and bed of the canyons are primarily a mix of basalt, slate, obsidian and marble, igneous and metamorphic rocks formed by the sheer heat and pressure the Shatterring wrought. The walls, at least near the top, are covered by an almost glass-like substance that has come to be known as Vidrite, which some say is the dried blood of the god. Vidrite reflects some light down into the deeps of the canyons below, granting it some some light during most of the day.
+A maze of extremely deep sheer canyons covering a few hundred square miles, formed by the immense power released at Immog's shattering also breaking the bedrock (for those who read Sanderson, yes it's partially inspired by the shattered plains). The lower walls and bed of the canyons are primarily a mix of basalt, slate, obsidian and marble, igneous and metamorphic rocks formed by the sheer heat and pressure the Shatterring wrought. The walls, at least near the top, are covered by an almost glass-like substance that has come to be known as Vidrite, which some say is the dried blood of the god. Vidrite reflects some light down into the deeps of the canyons below, granting it some some light during most of the day.
 
 Canyons range from 700-1500 metres deep, usually 50-100 metres wide and almost always sheer. The spilled blood and power of a war god and two armies has left the place permeated by powerful magic. Many strange plants grow unnaturally quickly on the base of the canyons allowing for a lot of food without much sunlight. The base of the canyons are colloquially referred to as the Catacombs.
 
