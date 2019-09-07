@@ -43,7 +43,7 @@
 - ___
 	- Owner and proprietor of the Giant's Burrow.
 - Bari
-	- Female Dwarf Barbarian and world-class gourmet chef. In the Tomb to find rare plants and animals/monsters, to make new dishes to amaze the world with. Has eaten at least part of every unique monster they've killed, and usually has sampled each different part (meat, eyes, brain, liver, etc.) of each monster. Has accidentally discovered some new poisons this way, currently on the run from 
+	- Female Dwarf Barbarian and world-class gourmet chef. In Hope's Rock to find rare plants and animals/monsters, to make new dishes to amaze the world with. Has eaten at least part of every unique monster she's killed, and usually has sampled each different part (meat, eyes, brain, liver, etc.) of each monster. Has accidentally discovered some new poisons this way, currently on the run from 
 
 ## Locations & Landmarks
 - Hope's Rock
