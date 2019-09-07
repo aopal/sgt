@@ -193,9 +193,9 @@ Few travellers from the outside world visit the kingdom beyond the small village
 
 ## Appendix C: Gods
 
-#### Current pantheon
-
 (WIP)
+
+#### Current pantheon
 
 | Name		|	Title							| Alignment		| Symbol					| Species		|
 |---		|---								|---			|---						|---			|
@@ -227,6 +227,7 @@ Few travellers from the outside world visit the kingdom beyond the small village
 | Immog		| The Shattered God					| NE			| A cracked fang			| Red Dragon	|
 
 #### Deceased/forgotten/un-worshipped gods
+
 | Name		|	Title							| Alignment		| Symbol					| Species		|
 |---		|---								|---			|---						|---			|
 |			| God of War						| LN			| None						| Orc			|
