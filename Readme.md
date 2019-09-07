@@ -49,7 +49,7 @@ Relatedly, if there's something not in the PHB that you really want to play, fee
 
 (There are no icons/borders/labels on the map because I'm still fleshing out the larger world)
 
-The Shattered God's Tomb is located on the continent of Athol, and near the continent of Evras further east. The continents have been populated for much longer than recorded history, having seen the rise and fall of numerous civilizations, many of whom unfortunately took their knowledge with them. 
+The Shattered God's Tomb is located on the continent of Athol (ATH-all), west of which is the continent Evras (ev-RASS). The continents have been populated for much longer than recorded history, having seen the rise and fall of numerous civilizations, many of whom unfortunately took their knowledge with them. 
 
 Change, some might call it chaos, is the defining trait of Atholian and Evrasian history. Nearly every city is built on the ruins of a far older one, if not many older ones. Few large empires or kingdoms endure more than a scant handful of centuries. Whether by internal stress, war with another nation, or the meddling of a god, mortal attempts at greatness don't seem to last long. The present state of the two continents reflects this; there are only a couple of large kingdoms, and young ones at that. Smaller duchies and city states abound instead.
 
