@@ -18,8 +18,8 @@
 		- [Miscellaneous](#miscellaneous)
 			- [Vidrite](#vidrite)
 			- [Heroes](#heroes)
-	- [Appendix A: Species](#appendix-a--species)
-	- [Appendix B: Cultures & Civilizations](#appendix-b--cultures-civilizations)
+	- [Appendix A - Species](#appendix-a---species)
+	- [Appendix B - Cultures and Civilizations](#appendix-b---cultures-and-civilizations)
 		- [The Divine Kingdom of Kithcaryn](#the-divine-kingdom-of-kithcaryn)
 		- [The Free City of Liria](#the-free-city-of-liria)
 		- [The Federation of Caesal](#the-federation-of-caesal)
@@ -33,15 +33,15 @@
 		- [The Free City of Breyze](#the-free-city-of-breyze)
 		- [The Dominion of Azuros](#the-dominion-of-azuros)
 		- [The City of Galward](#the-city-of-galward)
-	- [Appendix C: Other Geography](#appendix-c--other-geography)
+	- [Appendix C - Other Geography](#appendix-c---other-geography)
 		- [The Dancing Sea](#the-dancing-sea)
 		- [The Golden Strait](#the-golden-strait)
 		- [The Astham Expanse](#the-astham-expanse)
 		- [The Wild](#the-wild)
-	- [Appendix D: Gods](#appendix-d--gods)
+	- [Appendix D - Gods](#appendix-d---gods)
 		- [Current pantheon](#current-pantheon)
 		- [Deceased/forgotten/un-worshipped gods](#deceased-forgotten-un-worshipped-gods)
-	- [Appendix E: Languages](#appendix-e--languages)
+	- [Appendix E - Languages](#appendix-e---languages)
 
 ## Introduction
 
@@ -151,7 +151,7 @@ The name for the glass- or quartz-like substance that coats the walls of the can
 
 This world has seen many adventurers, some of whose legacy can still be felt. Adventurers are usually called heroes, which takes on the meaning of "larger than life," someone who seems to have strange and unlikely experiences more than usual, and not necessarily a virtuous one. Fate seems to twist the odds in the areas around them causing unlikely occurrences to suddenly become very likely. Some people try to prove themselves worthy of fate, and others try to find heroes, those people in whom fate seems to take an interest, and use them for their gain, though fate has a way of striking back at those who try such things.
 
-## Appendix A: Species
+## Appendix A - Species
 
 Player available species:
 - Humans
@@ -189,7 +189,7 @@ Species that exist in the world:
 - Kobolds
 - Lizardfolk
 
-## Appendix B: Cultures & Civilizations
+## Appendix B - Cultures and Civilizations
 
 ![](world-borders.png)
 
@@ -265,7 +265,7 @@ Azuros has yet to see a true civil war in its history, but the state of Azuran u
 
 (GAUL-ward) City state located on a peninsula on the southwestern edge of Evras, just north of the ice plains. Remote and having little contact with the outside world, little is known of Galward. Traders from the city are rare, only occasionally visiting Kithcaryn, and even then their offerings are hopelessly mundane, often rough-hewn idols of their gods, sour wine and threadbare pelts. Few Evrasians have ever visited the city, and fewer are the stories they feel interesting enough to tell. By and large  One wonders why anyone would make such a long journey to trade such meager goods.
 
-## Appendix C: Other Geography
+## Appendix C - Other Geography
 
 ### The Dancing Sea
 
@@ -285,7 +285,7 @@ Though there are many cities on Evras and Athol, the land between any two nation
 
 The Wild Kingdom of Athol exists as an anomaly, the only piece of the wild known to have some sense of order. Other areas are thought to either be empty of sentient beings, or else the territory of more tribal peoples; orcs, goliath, lizardfolk, goblins & hobgoblins, and possibly stranger and more unknown creatures.
 
-## Appendix D: Gods
+## Appendix D - Gods
 
 (WIP)
 
@@ -330,7 +330,7 @@ The Wild Kingdom of Athol exists as an anomaly, the only piece of the wild known
 | Jolryg		| God of War						| NE			| Unknown					| War				| Lion			|
 | Unknown		| Patron god of the Kenku			| Unknown		| Unknown					| Unknown			| Unknown		|
 
-## Appendix E: Languages
+## Appendix E - Languages
 Dialects of languages are indented
 
 Standard Languages:
