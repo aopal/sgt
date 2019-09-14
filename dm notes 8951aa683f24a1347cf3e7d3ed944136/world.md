@@ -27,13 +27,15 @@ Icons needed:
 - Volcano? -->
 
 ![World Map](candidate.png)
-~95 * 56 hexes, 1152 * 672 miles, 775000 square miles
-
-Aim for 100 * 60 hexes for easier math. 1200 * 720 miles, 864000 square miles.
+Each hex 15 miles between parallel edges. Map roughly 100 * 60 hexes. About 930 miles north-south.
 
 Eastern continent - Athol. People called Atholians.
 
 Western continent - Evras. People called Evrasians.
+
+World is about the size of Earth's moon. At that scale , 930 miles is the distance from the northern edge of BC to the tropic of cancer, or about 50 degrees. This is the angle between the southern tip of England and the equator, or the distance between the southern edge of Cuba and the northern edge of Mainland Canada (Northern coast of the Yukon).
+
+Southern edge of the map is the 70th parallel south, and the northen bit is the 20th, roughly analogous to northern Yukon and Maharashtra respectively.
 
 ## Travelling
 By Land:

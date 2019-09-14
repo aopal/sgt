@@ -28,12 +28,14 @@
 - The Lirian Embassy
 	- Agents of the Free City of Liria, searching the Catacombs for any and all enchanted objects, especially those extremely powerful artifacts they can learn new magic from. Some claim they are especially interested in the magical weapons, hoping to build up an arsenal to increase Liria's domain.
 - The Wild Embassy
-	- Not actually an official delegation, but a collection of inhabitants from the Wild Kingdom that seek to find
+	- Not actually an official delegation, but a collection of inhabitants from the Wild Kingdom that seek to find rare creatures in the Tomb. Many people say that never before seen monsters are in the Tomb, the inhabitants of the wild hope to find members of species once thought extinct.
+- The Artist's guild
+	- A loose group of various artists, poets, musicians and a smattering of scholars and mages. More of a club of similar-ish minded people than a proper faction, they tend to meet in a corner of the Giant's Burrow.
 
 ## Individual NPCs
 - One-arm Derik
 	- The affable lift operator who operates the upper end of the lift. Dwarven male, used to be an adventurer but retired after losing his right arm. Warm, friendly and talkative, likes to chat to the adventurers heading down to the Lower Rock.
-	- Either isn't fully aware of the lift debts, or is and doesn't feel any remorse for not warning people.
+	- Either isn't fully aware of the lift debts, or is and doesn't feel any remorse for not warning people. LN.
 - Bishop Ormen
 	- The Bishop leading the Priests of Ebor in Hope's Rock. NG Male Aasimar Paladin, both eloquent philosopher and theologian, as well as a ruthless pragmatist and warrior. Considered to have slightly radical views on Ebor's teachings, his main focus is the question of the balance between peace keeping, and peace making. Seeks to find if there is any truth to the rumour that Immog yet lives.
 	- Unknown to all, including his fellow priests, Ormen is actually the god Ebor incognito. He has left the majority of his power on his plane, and uses high level magic to hides his actually being an Orc. He intends to find the remains of Immog and either acquire any of Immog's power he can, or else destroy the remains if he cannot. He wishes to acquire more power to more directly contend with gods whom he thinks are the enemy of peace. He has spent several decades incognito in his own church, and has come to the conclusion that the non-peacemaking sects are wrong and are not promoting peace, and intents to cleanse said sects from his own clergy once he is done in the Tomb.
@@ -41,9 +43,40 @@
 	- Female Tiefling rogue. Derik's counterpart in the Lower Rock, guards and operates the waystation at the bottom of the lift. Often the first person adventurers meet after exiting the lift. Likes to dress in extremely fine clothes and jewelry. Known to be a bit eccentric if not erratic, and prone to rapid mood shifts.
 	- LE, finds telling people about the lift debt extremely fun. Only a level 3 rogue (arcane trickster) but guards the lift with magic weaponry found in the Catacombs, and locks up the station with a magical lock custom made by a Lirian arch-wizard at the end of the day. Even the other Merchants of Adventure find her unsettling and ruthless, though like the other merchants she will stick to the letter of her word. When displaying or faking emotions she tends to oversell it, often smiling so widely her muscles are visibly twitching in effort.
 - ___
-	- Owner and proprietor of the Giant's Burrow.
+	- Halfling owner and proprietor of the Giant's Burrow. 
 - Bari
-	- Female Dwarf Barbarian and world-class gourmet chef. In Hope's Rock to find rare plants and animals/monsters, to make new dishes to amaze the world with. Has eaten at least part of every unique monster she's killed, and usually has sampled each different part (meat, eyes, brain, liver, etc.) of each monster. Has accidentally discovered some new poisons this way, currently on the run from 
+	- Female Dwarf Barbarian and world-class gourmet chef. In Hope's Rock to find rare plants and animals/monsters, with which to make new dishes to amaze the world. Has eaten at least part of every unique monster she's killed, and usually has sampled each different part (meat, eyes, brain, liver, etc.) of each monster. Has accidentally discovered some new poisons this way, currently on the run from Kithcaryn after not realizing one of her favourite new monster parts was poisonous before cooking it for a noble. Occasionally does special menus at the Shaggy Alligator
+- Edur
+	- Elf whose grandfather was present at the shattering and died there. Seeks to find a particular enchanted amulet that their grandfather always kept with him, as their family has no other mementos of him. Took on this duty for themself as they're they're the youngest child and the only one without any deeds to their name. Intend to find their grandfather's body or die trying.
+- Saelfine
+	- CN level 15 half-elf fighter, one of the first adventurers to survive the Catacombs and one of the principal founders of Hope's Rock. Extremely friendly with people who they think have the potential to be worthy adventurers, but has nothing but contempt for the less able. To their view anyone who willingly chooses to come to a place known for extremely dangerous monsters should be ready for it to be a difficult place to live, even if that difficulty is entirely separate from the monsters. In this vein, doesn't see anything particularly wrong with the lift debts, as they think it's a relatively fair price for the cost it took to build the town, both monetary and in blood. Kind of doesn't think about the ethics of only informing people about the debt once they're stuck in the Lower Rock
+- ___
+	- Founder of the merchants of adventure and self-appointed mayor of Hope's Rock, not that they actually do anything much. Lives in one of the few fully wooden houses, build in a magically excavated cave on his own personal level of the upper street of Demon's Lane. Doesn't stop them complaining about how many steps they have to climb to leave their front door. Only gives the time of day to nobles and adventureres with particularly interesting stories
+- ___
+	- Overseer of the farmers in Dragon's Gulch. Not inclined to use many words, but seems surprisingly content with his lot as effectively an imprisoned labourer
+	- Formerly a scribe in the courts of the kingdom of Frairus, now an escaped convict guilty of second degree murder. Came to Hope's Rock because he had no where else to run. Harbors some resentment at his imprisonment on the part of the merchants of adventure, but on the whole finds it vastly preferable to life on the run, as had been his existence for the 5 years before arriving in Hope's rock, about a year before the party did.
+- ___
+	- Level 8 sorceror. Sort of the main recruiter for the Shattered God's Cult, the warm and reasonable face that's meant to draw people in. Hangs around the Giant's burrow to try and recruit newcomers before they can be scared off, as well as any of the poorer citizens of Hope's Rock that are desparate enough
+- ___
+	- Bard, member of the Artist's guild. Tags along with adventurers they find intriguing, as they hope to compose "a new epic for this strange new era, the likes of which the world has never seen before"
+- Laslo
+	- Human male, owner of the Shaggy Alligator. Never been an adventurer, but was always friends with many hence his branding for the Shaggy Alligator as a place for adventurer. Quick to make anyone who steps over his threshold feel welcome, and equally quick to put a drink in their hand, and remove a coin from their purse.
+- ___
+	- Goliath, member of the wild embassy. Travelled with some other members of the kingdom, but is mostly there to prove his worth by acting as a body guard for the conservationists.
+- ___
+	- Wizard with a passing interest in architecture and a focus in earth magics. Makes a decent bit of cash carving caves into more home-worthy shapes with magic. Is trying to study Vidrite as, unlike most scholars, they believe that the crystal is magic in some way. Rumoured to have managed to break a piece of the crystal off the walls of the cave.
+- ___
+	- Bouncer at the Margrave. Rejects anyone that doesn't fit the atmosphere of the place, or just anyone they don't like. Isn't afraid to tell people that last bit, even if they already failed the first criteria.
+- ___
+	- Sculptor and painter, member of the Artist's guild. 3rd child of 
+
+
+People still needed:
+- lirian embassy
+- more cultists
+- more priests of ebor
+- more factions?
+- nobles - need some more nations first
 
 ## Locations & Landmarks
 - Hope's Rock
@@ -55,7 +88,11 @@
 	- The outcrop of vidrite nearly 50 feet tall around which the town of Hope's Rock was built and named. Shaped like a smaller version of Pride Rock from the Lion King, at its peak appears to be a blue banner, encased in vidrite but still mostly visible through the crystal. Whatever symbol might have been present on the banner cannot be seen. Its unknown what material the banner is made of, as any flammable materials were reduced to ash during the shattering.
 	- The Hope is just barely at a gentle enough slope to climb. There is a wooden sign next to the rock that reads "Warning: climb at your own risk", with a smaller sign on the same post beneath it that reads "By climbing this rock (hereafter referred to as 'the Rock') you (hereafter referred to as 'the Climber') enter into an agreement with The Merchants of Adventure Incorporated (herafter referred to as 'the Company'). In climbing the Rock the Climber certifies that they are doing so of their own volition, and are not compelled to do so by any means or by any parties, including the Company. The Climber waives all liability towards the Company for any injury, maiming, loss of life, sense of vertigo, newfound fear of heights, loss of sanity, sunburn, dissatisfaction, boredom or sundry feelings of malcontent the climber might sustain in the act of climbing the Rock or in the vicinity of the Rock. The Climber agrees to assume all liability in the event of the occurrence of one or more of the eventualities listed above, and acknowledges they cannot receive any recompense, monetary or otherwise, from the Company in the event of one of the listed eventualities. The full twenty-three (23) page text of this waiver can be viewed by appointment with 8 weeks notice at the offices of Barristers Kutsk & Ironhelm, 518 Broken Tower Walk, The City of Caesal, The Federation of Caesal."
 - The Giant's Burrow
-	- Pub just off the central square of the Lower Rock. Built out of a natural cave off a ~5 foot high archway. Run by Bari, a female dwarf, who named it since it's a giant archway for her, but not for others, and pubs ought to have fun names, no? The Giant's Burrow welcomes all denizens of the Lower Rock
+	- Pub just off the central square of the Lower Rock. Built out of a natural cave off a ~5 foot high archway. Run by Belzin, a halfling, who named it since it's a giant archway for her, but not for others, and pubs ought to have fun names, no? The Giant's Burrow welcomes all denizens of the Lower Rock, and has the cheapest, and lowest quality, alcohol
+- The Margrave
+	- Higher class lounge and bar in the middle of Beholder's Boulevard. By far the most opulent and overpriced inn in the Lower rock, primarily frequented by nobles, merchants, richer members of the Artist's Guild, and ranking members of various nations' delegations. Openly mocked by most other denizens of the Lower Rock as uptight
+- The Shaggy Alligator
+	- Middling pub on Demon's Lane, almost solely frequented by the successful adventurers who are too rough and tumble for the Margrave, but can afford better than the Giant's Burrow. Only allows people who have been in the town for more than a week to enter, which is quite effective at keeping the crowds small. Named after its owner's first attempt at making beer with wheat grown in the Catacombs got contaminated and made him hallucinate that a furred alligator was attacking the pub (it was actually the cook clocking out for the night). Since then the name stuck, as did the "Shaggy Special", an ale with a rotating recipe brewed to be as strong and noxious as possible. Each batch is unique, and ___ never runs out of ideas, particularly since Bari started giving him ideas.
 
 ## Miscellaneous 
 - Vidrite
