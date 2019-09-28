@@ -34,17 +34,19 @@
 
       function openNav() {
         document.getElementById("toc-open").innerHTML = "true"
-        document.getElementById("openbtn").style.width = "365px"
+        document.getElementById("openbtn").style.width = "415px"
         document.getElementById("openbtn").style.backgroundColor = "#ccc"
-        document.querySelector(".wrapper > ul:nth-child(1)").style.width = "300px";
+        document.querySelector(".wrapper").style.width = "1000px";
+        document.querySelector(".wrapper > ul:nth-child(1)").style.width = "350px";
         document.querySelector(".wrapper > ul:nth-child(1)").style.paddingLeft = "40px"
         document.querySelector(".wrapper > ul:nth-child(1)").style.paddingRight = "25px"
-        document.getElementsByClassName("wrapper")[0].style.marginLeft = "350px";
+        document.getElementsByClassName("wrapper")[0].style.marginLeft = "400px";
       }
       
       function closeNav() {
         document.getElementById("toc-open").innerHTML = "false"
         document.getElementById("openbtn").removeAttribute("style")
+        document.querySelector(".wrapper").removeAttribute("style")
         document.querySelector(".wrapper > ul:nth-child(1)").style.width = "0";
         document.querySelector(".wrapper > ul:nth-child(1)").style.paddingLeft = "0px"
         document.querySelector(".wrapper > ul:nth-child(1)").style.paddingRight = "0px"

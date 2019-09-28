@@ -8,11 +8,12 @@
   background-color: #eee;
   overflow-x: hidden;
   overflow-y: scroll;
-  transition: 0.4s;
+  transition: 0.25s;
   padding: 0;
 }
 
-/* ::-webkit-scrollbar {
+
+::-webkit-scrollbar {
   height: 12px;
   width: 12px;
   background: #eee;
@@ -20,11 +21,7 @@
 
 ::-webkit-scrollbar-thumb {
   background: #393812;
-} */
-
-/* ::-webkit-scrollbar-corner {
-  background: #eee;
-} */
+}
 
 #openbtn {
   position: fixed;
@@ -39,7 +36,7 @@
   text-align: right;
   color: black;
   border: none;
-  transition: 0.4s;
+  transition: 0.25s;
 }
 
 .openbtn:hover {
@@ -50,6 +47,6 @@
   visibility: hidden;
 }
 
-:focus {
+button:focus {
   outline: 0;
 }
