@@ -1,58 +1,55 @@
-# The Shattered God's Tomb
-
+- [Introduction](#introduction)
+- [The World](#the-world)
+- [A Note on Culture and Language](#a-note-on-culture-and-language)
 - [The Shattered God's Tomb](#the-shattered-gods-tomb)
-	- [Introduction](#introduction)
-	- [The World](#the-world)
-	- [A Note on Culture and Language](#a-note-on-culture-and-language)
-	- [The Shattered God's Tomb](#the-shattered-gods-tomb)
-		- [NEW: Map](#new--map)
-		- [History](#history)
-			- [Aftermath of the Shattering](#aftermath-of-the-shattering)
-		- [Description](#description)
-		- [Factions](#factions)
-			- [The Merchants of Adventure](#the-merchants-of-adventure)
-		- [Characters](#characters)
-			- [NEW: One-arm Derik](#new--one-arm-derik)
-			- [NEW: Zatari](#new--zatari)
-			- [NEW: Belzin](#new--belzin)
-			- [NEW: Bari](#new--bari)
-			- [NEW: Laslow](#new--laslow)
-			- [NEW: Todri](#new--todri)
-		- [Locations & Landmarks](#locations-landmarks)
-			- [Hope's Rock](#hopes-rock)
-			- [UPDATED: The Lower Rock](#updated--the-lower-rock)
-			- [The Hope](#the-hope)
-			- [NEW: The Giant's Burrow](#new--the-giants-burrow)
-			- [NEW: The Shaggy Alligator](#new--the-shaggy-alligator)
-			- [NEW: The General Store](#new--the-general-store)
-			- [NEW: The Town Square](#new--the-town-square)
-		- [Miscellaneous](#miscellaneous)
-			- [Vidrite](#vidrite)
-			- [Heroes](#heroes)
-	- [Appendix A - Species](#appendix-a---species)
-	- [Appendix B - Cultures and Civilizations](#appendix-b---cultures-and-civilizations)
-		- [The Divine Kingdom of Kithcaryn](#the-divine-kingdom-of-kithcaryn)
-		- [The Free City of Liria](#the-free-city-of-liria)
-		- [The Federation of Caesal](#the-federation-of-caesal)
-		- [The Wild Kingdom](#the-wild-kingdom)
-		- [The Kingdom of Frairus](#the-kingdom-of-frairus)
-		- [The Commonwealth of Uskia](#the-commonwealth-of-uskia)
-		- [The Dominion of Karlsa](#the-dominion-of-karlsa)
-		- [The Free City of Farashna](#the-free-city-of-farashna)
-		- [The Vrokricurion Dukedom](#the-vrokricurion-dukedom)
-		- [The Free City of Camzon](#the-free-city-of-camzon)
-		- [The Free City of Breyze](#the-free-city-of-breyze)
-		- [The Dominion of Azuros](#the-dominion-of-azuros)
-		- [The City of Galward](#the-city-of-galward)
-	- [Appendix C - Other Geography](#appendix-c---other-geography)
-		- [The Dancing Sea](#the-dancing-sea)
-		- [The Golden Strait](#the-golden-strait)
-		- [The Astham Expanse](#the-astham-expanse)
-		- [The Wild](#the-wild)
-	- [Appendix D - Gods](#appendix-d---gods)
-		- [Current pantheon](#current-pantheon)
-		- [Deceased/forgotten/un-worshipped gods](#deceased-forgotten-un-worshipped-gods)
-	- [Appendix E - Languages](#appendix-e---languages)
+	- [Map (New)](#map-new)
+	- [History](#history)
+		- [Aftermath of the Shattering](#aftermath-of-the-shattering)
+	- [Description](#description)
+	- [Factions](#factions)
+		- [The Merchants of Adventure](#the-merchants-of-adventure)
+	- [Characters (Updated)](#characters-updated)
+		- [One-arm Derik (New)](#one-arm-derik-new)
+		- [Zatari (New)](#zatari-new)
+		- [Belzin (New)](#belzin-new)
+		- [Bari (New)](#bari-new)
+		- [Laslow (New)](#laslow-new)
+		- [Todri (New)](#todri-new)
+	- [Locations and Landmarks (Updated)](#locations-and-landmarks-updated)
+		- [Hope's Rock](#hopes-rock)
+		- [The Lower Rock (Updated)](#the-lower-rock-updated)
+		- [The Hope](#the-hope)
+		- [The Giant's Burrow (New)](#the-giants-burrow-new)
+		- [The Shaggy Alligator (New)](#the-shaggy-alligator-new)
+		- [The General Store (New)](#the-general-store-new)
+		- [The Town Square (New)](#the-town-square-new)
+	- [Miscellaneous](#miscellaneous)
+		- [Vidrite](#vidrite)
+		- [Heroes](#heroes)
+- [Appendix A - Species](#appendix-a---species)
+- [Appendix B - Cultures and Civilizations](#appendix-b---cultures-and-civilizations)
+	- [The Divine Kingdom of Kithcaryn](#the-divine-kingdom-of-kithcaryn)
+	- [The Free City of Liria](#the-free-city-of-liria)
+	- [The Federation of Caesal](#the-federation-of-caesal)
+	- [The Wild Kingdom](#the-wild-kingdom)
+	- [The Kingdom of Frairus](#the-kingdom-of-frairus)
+	- [The Commonwealth of Uskia](#the-commonwealth-of-uskia)
+	- [The Dominion of Karlsa](#the-dominion-of-karlsa)
+	- [The Free City of Farashna](#the-free-city-of-farashna)
+	- [The Vrokricurion Dukedom](#the-vrokricurion-dukedom)
+	- [The Free City of Camzon](#the-free-city-of-camzon)
+	- [The Free City of Breyze](#the-free-city-of-breyze)
+	- [The Dominion of Azuros](#the-dominion-of-azuros)
+	- [The City of Galward](#the-city-of-galward)
+- [Appendix C - Other Geography](#appendix-c---other-geography)
+	- [The Dancing Sea](#the-dancing-sea)
+	- [The Golden Strait](#the-golden-strait)
+	- [The Astham Expanse](#the-astham-expanse)
+	- [The Wild](#the-wild)
+- [Appendix D - Gods](#appendix-d---gods)
+	- [Current pantheon](#current-pantheon)
+	- [Deceased Gods](#deceased-gods)
+- [Appendix E - Languages](#appendix-e---languages)
 
 ## Introduction
 
@@ -88,7 +85,7 @@ A full list of languages can be found in [appendix E](#appendix-e--languages), t
 
 ## The Shattered God's Tomb
 
-### NEW: Map
+### Map (New)
 
 ![Map of the Shattered God's Tomb](SGT.png)
 
@@ -137,33 +134,33 @@ Agents of the Free City of Liria, searching the Catacombs for any and all enchan
 <!-- #### The Wild Embassy
 Not actually an official delegation, but a collection of inhabitants from the Wild Kingdom that seek to find rare creatures in the Tomb. Many people say that never before seen monsters are in the Tomb, the inhabitants of the wild hope to find members of species once thought extinct. -->
 
-### Characters
+### Characters (Updated)
 
-#### NEW: One-arm Derik
+#### One-arm Derik (New)
 The affable lift operator who operates the upper end of the lift. Dwarven male, used to be an adventurer but retired after losing his right arm. Warm, friendly and talkative, likes to chat to the adventurers heading down to the Lower Rock. Member of the Merchants of Adventure.
 
-#### NEW: Zatari
+#### Zatari (New)
 Female Tiefling rogue. Derik's counterpart in the Lower Rock, guards and operates the waystation at the bottom of the lift. Often the first person adventurers meet after exiting the lift. Likes to dress in extremely fine clothes and jewelry. Known to be a bit eccentric if not erratic, and prone to rapid mood shifts. Member of the Merchants of Adventure.
 
-#### NEW: Belzin
+#### Belzin (New)
 Vrokish halfling owner and proprietor of the Giant's Burrow. Often laughing and fond of stories, both telling her own and hearing those of her customers. If anything, she finds the stories of the lower classes more interesting than the boastings of nobles and adventurers, though she tries to keep her mild disdain under wraps.
 
-#### NEW: Bari
+#### Bari (New)
 Female Dwarf Barbarian and world-class gourmet chef, originally hailing from Kithcaryn. In Hope's Rock to find rare plants and animals/monsters, with which to make new dishes to amaze the world. Has eaten at least part of every unique monster she's killed, and usually has sampled each different part (meat, eyes, brain, liver, etc.) of each monster. Has accidentally discovered some new poisons this way, currently on the run from Kithcaryn after not realizing one of her favourite new monster parts was poisonous before cooking it for a noble. Occasionally does special menus at the Shaggy Alligator
 
-#### NEW: Laslow
+#### Laslow (New)
 Uskian human male, owner of the Shaggy Alligator. Never been an adventurer, but was always friends with many hence his branding for the Shaggy Alligator as a place for adventurer. Quick to make anyone who steps over his threshold feel welcome, and equally quick to put a drink in their hand, and remove a coin from their purse. Firm adherent to the teachings of Taesis
 
-#### NEW: Todri
+#### Todri (New)
 Gnome, owner of the warehouse store on Beholder's Boulevard. Quiet and direct, doesn't have much on their mind other than their business. Keeps extremely close account of the ledgers. Member of the Merchants of Adventure.
 
-### Locations & Landmarks
+### Locations and Landmarks (Updated)
 
 #### Hope's Rock
 
 The town surrounding the Grand Lift, population 200-300 (it tends to change monthly, if not weekly). Separated into the Upper Rock at the top of the lift, and the Lower Rock at its base. Named after the huge vidrite boulder, of the same material of the walls of the cliffs, next to which resides the lift. The Upper Rock is far smaller, mostly only for unloading supplies to be sent to the Lower Rock. The lower rock is far larger and centered around the meeting of 3 canyons, resulting in the three major (and only) streets of the lower town. 
 
-#### UPDATED: The Lower Rock
+#### The Lower Rock (Updated)
 
 ![Map of the Lower Rock](Lower-Rock.png)
 
@@ -172,15 +169,15 @@ The town at the base of the Grand Lift. Comprised of a central square and three 
 #### The Hope
 The outcrop of vidrite nearly 50 feet tall around which the town of Hope's Rock was built and named. Some claim it's shaped like a fang, though many dismiss this, saying the resemblance is rough at best. The only known piece of vidrite not attached to the walls of the canyons, at its peak appears to be a blue banner, encased in vidrite but still mostly visible through the crystal. Whatever symbol might have been present on the banner cannot be seen. Its unknown what material the banner is made of, as any flammable materials were reduced to ash during the shattering.
 
-#### NEW: The Giant's Burrow
+#### The Giant's Burrow (New)
 Pub just off the central square of the Lower Rock. Built out of a natural cave off a ~5 foot high archway. Run by Belzin, a halfling, who named it since it's a giant archway for her, but not for others, and pubs ought to have fun names, no? The Giant's Burrow welcomes all denizens of the Lower Rock, and has the cheapest, and lowest quality, food & alcohol
 
-#### NEW: The Shaggy Alligator
+#### The Shaggy Alligator (New)
 Middling pub on Demon's Lane, almost solely frequented by the successful adventurers who are too rough and tumble for the Margrave, but can afford better than the Giant's Burrow. Only allows people who have been in the town for more than a week to enter, which is quite effective at keeping the crowds small. Named after its owner's first attempt at making beer with wheat grown in the Catacombs got contaminated and made him hallucinate that a furred alligator was attacking the pub (it was actually the cook clocking out for the night). Since then the name stuck, as did the "Shaggy Special", an ale with a rotating recipe brewed to be as strong and noxious as possible. Each batch is unique and Laslow never runs out of ideas, particularly since Bari started contirbuting
-#### NEW: The General Store
+#### The General Store (New)
 Warehouse on Beholder's Boulevard. The only 'general store' in the town, the point of sale for all outside goods. Many goods. Many other establishments or groups in town (inns, the farmers, the miners, the merchants of adventure) get first dibs on new supplies before they ever get to general sale.
 
-#### NEW: The Town Square
+#### The Town Square (New)
 The intersection of the three canyons that make up the Lower Rock. Calling it a square isn't quite accurate, it's just the only relatively open area in the town. The waystation at the base of the Grand Lift is centered on its west wall, and the square is populated with a few benches where denizens occasionally sit. The square has not been terraformed, its shape is entirely natural, and the ground is the usual mix of open rock and dirt of the rest of the canyons.
 
 In the dead centre of the square is a huge marble monument depicting many lifesize people of various species. They are all highly detailed, and heavily armed and armored, facing outward in a circle grinning in defiance at some unseen enemy. A plaque on the west side of the monument reads: "We honour those beings who gave their lives to build and defend this town. When we leave this place laden with riches, so too shall we carry their stories. They shall be the heaviest burdens of all, weighing down our every step."
@@ -331,8 +328,6 @@ The Wild Kingdom of Athol exists as an anomaly, the only piece of the wild known
 
 ## Appendix D - Gods
 
-(WIP)
-
 ### Current pantheon
 
 | Name			|	Title							| Alignment		| Symbol					| Domain				| Species		|
@@ -364,7 +359,7 @@ The Wild Kingdom of Athol exists as an anomaly, the only piece of the wild known
 | Lokdon		| The Father						| N				| None						| Life, War				| Human			|
 | Immog			| The Shattered God					| NE			| A cracked fang			| Unknown				| Red Dragon	|
 
-### Deceased/forgotten/un-worshipped gods
+### Deceased Gods
 
 | Name			|	Title							| Alignment		| Symbol					|					| Species		|
 |---			|---								|---			|---						|					|---			|

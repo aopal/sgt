@@ -1,0 +1,51 @@
+.wrapper > ul:nth-child(1) {
+  height: 92%;
+  width: 0;
+  position: fixed;
+  z-index: 1;
+  top: 8%;
+  left: 0;
+  background-color: #eee;
+  overflow-x: hidden;
+  overflow-y: scroll;
+  transition: 0.4s;
+  padding: 0;
+}
+
+/* ::-webkit-scrollbar {
+  height: 12px;
+  width: 12px;
+  background: #eee;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #393812;
+} */
+
+/* ::-webkit-scrollbar-corner {
+  background: #eee;
+} */
+
+#openbtn {
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  height: 8%;
+  width: 30px;
+  font-size: 20px;
+  cursor: pointer;
+  background-color: #fff;
+  text-align: right;
+  color: black;
+  border: none;
+  transition: 0.4s;
+}
+
+.openbtn:hover {
+  background-color: #eee;
+}
+
+#toc-open {
+  visibility: hidden;
+}
