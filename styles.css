@@ -49,3 +49,7 @@
 #toc-open {
   visibility: hidden;
 }
+
+:focus {
+  outline: 0;
+}
