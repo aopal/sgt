@@ -46,12 +46,13 @@
 	- Vrokish halfling owner and proprietor of the Giant's Burrow. Often laughing and fond of stories, both telling her own and hearing those of her customers. If anything, she finds the stories of the lower classes more interesting than the boastings of nobles and adventurers, though she tries to keep her mild disdain under wraps.
 - Bari
 	- Female Dwarf Barbarian and world-class gourmet chef, originally hailing from Kithcaryn. In Hope's Rock to find rare plants and animals/monsters, with which to make new dishes to amaze the world. Has eaten at least part of every unique monster she's killed, and usually has sampled each different part (meat, eyes, brain, liver, etc.) of each monster. Has accidentally discovered some new poisons this way, currently on the run from Kithcaryn after not realizing one of her favourite new monster parts was poisonous before cooking it for a noble. Occasionally does special menus at the Shaggy Alligator
-- Lìf
-	- Farashnan elf whose grandfather was present at the shattering and died there. Seeks to find a particular enchanted amulet that their grandfather always kept with him, as their family has no other mementos of him. Took on this duty for themself as they're they're the youngest child and the only one without any deeds to their name. Intend to find their grandfather's body or die trying.
+- Erdan
+	- Farashnan elf whose grandfather was present at the shattering and died there. 103, just barely old enough to be considered an adult. Seeks to find a particular enchanted amulet that their grandfather always kept with him, as their family has no other mementos of him. Took on this duty for themself as they're they're the youngest child and the only one without any deeds to their name. Intend to find their grandfather's body or die trying.
 - Saelfine
-	- CN level 15 half-elf fighter, one of the first adventurers to survive the Catacombs and one of the principal founders of Hope's Rock. Extremely friendly with people who they think have the potential to be worthy adventurers, but has nothing but contempt for the less able. To their view anyone who willingly chooses to come to a place known for extremely dangerous monsters should be ready for it to be a difficult place to live, even if that difficulty is entirely separate from the monsters. In this vein, doesn't see anything particularly wrong with the lift debts, as they think it's a relatively fair price for the cost it took to build the town, both monetary and in blood. Kind of doesn't think about the ethics of only informing people about the debt once they're stuck in the Lower Rock
+	- CN level 10 half-elf fighter, one of the first adventurers to survive the Catacombs and one of the principal founders of Hope's Rock. Extremely friendly with people who they think have the potential to be worthy adventurers, but has nothing but contempt for the less able. To their view anyone who willingly chooses to come to a place known for extremely dangerous monsters should be ready for it to be a difficult place to live, even if that difficulty is entirely separate from the monsters. In this vein, doesn't see anything particularly wrong with the lift debts, as they think it's a relatively fair price for the cost it took to build the town, both monetary and in blood. Kind of doesn't think about the ethics of only informing people about the debt once they're stuck in the Lower Rock
 - Jemar
-	- (dge-MAR) Founder of the merchants of adventure and self-appointed mayor of Hope's Rock, not that they actually do anything much. Lives in one of the few fully wooden houses, build in a magically excavated cave on his own personal level of the upper street of Demon's Lane. Doesn't stop them complaining about how many steps they have to climb to leave their front door. Only gives the time of day to nobles and adventureres with particularly interesting stories
+	- (dge-MAR) Half-orc, founder of the merchants of adventure and self-appointed mayor of Hope's Rock, not that they actually do anything much. Lives in one of the few fully wooden houses, build in a magically excavated cave on his own personal level of the upper street of Demon's Lane. Doesn't stop them complaining about how many steps they have to climb to leave their front door. Only gives the time of day to nobles and adventureres with particularly interesting stories
+	- LE
 - Vorqull
 	- (VORE-cull) Dragonborn, overseer of the farmers in Dragon's Gulch. Not inclined to use many words, but seems surprisingly content with his lot as effectively an imprisoned labourer
 	- Formerly a scribe in the courts of the kingdom of Frairus, now an escaped convict guilty of second degree murder. Came to Hope's Rock because he had no where else to run. Harbors some resentment at his imprisonment on the part of the merchants of adventure, but on the whole finds it vastly preferable to life on the run, as had been his existence for the 5 years before arriving in Hope's rock, about a year before the party did.
@@ -64,13 +65,13 @@
 - Fragile Riddle
 	- Tabaxi Breyzian wizard with a passing interest in architecture and a focus in earth magics. Makes a decent bit of cash carving caves into more home-worthy shapes with magic. Is trying to study Vidrite as, unlike most scholars, they believe that the crystal is magic in some way. Rumoured to have managed to break a piece of the crystal off the walls of the cave.
 - ___
-	- Bouncer at the Margrave, Azuran. Rejects anyone that doesn't fit the atmosphere of the place, or just anyone they don't like. Isn't afraid to tell people that last bit, even if they already failed the first criteria.
+	- Dragonborn bouncer at the Margrave, Azuran. Rejects anyone that doesn't fit the atmosphere of the place, or just anyone they don't like. Isn't afraid to tell people that last bit, even if they already failed the first criteria.
 - ___
 	- Sculptor and painter, member of the Artist's guild. 3rd child of Karlsan nobility, in self-imposed exile and is attempting to make something of themself, as they know there's nothing for them as a noble who won't inherit. Came to Hope's Rock out of desperation, having heard of it's beauty, and deeply regrets the decision as they have no idea of how they're ever going to leave now. Their art has become notably more abstract and chaotic because of this, though if anything their production rate has increased
 - ???
 	- The high priest of the shattered cult. No one seems to have met them other than other high ranking cultists, and they're not talking. It's unknown exactly who they might be, or if they even truly exist.
 - ___ 
-	- Leader of the Lirian agents in Hope's Rock.
+	- Goliath, leader of the Lirian agents in Hope's Rock.
 	- On the hunt for any and every magical item they can get their hands on, no matter what it takes to do so. Tight-lipped about why Liria is so singularly focused on Mikhesal artifacts. Military purposes, magical research, preventing their misuse by others, rumours and suspiscions abound.
 - Todri
 	- Gnome, owner of the warehouse store on Beholder's Boulevard. Quiet and direct, doesn't have much on their mind other than their business. Keeps extremely close account of the ledgers
@@ -82,7 +83,7 @@
 - Rorvun Cestim
 	- Level 5 Caesalan human fighter, adherent to the god Ebor, and serves under Ormen's command. Bounty hunter by trade, came to the tomb out of boredom with his life, and signed onto the priests of Ebor because it fit his own morals
 - Steel Crash
-	- Level 5 Kenku monk/rogue. 
+	- Level 5 Kenku monk/rogue. Acolyte of the priests of Ebor
 
 
 People still needed:
