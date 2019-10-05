@@ -58,16 +58,16 @@
 	- Formerly a scribe in the courts of the kingdom of Frairus, now an escaped convict guilty of second degree murder. Came to Hope's Rock because he had no where else to run. Harbors some resentment at his imprisonment on the part of the merchants of adventure, but on the whole finds it vastly preferable to life on the run, as had been his existence for the 5 years before arriving in Hope's rock, about a year before the party did.
 - Sirvan
 	- (SEAR-vinn) Level 8 male human sorceror, Karlsan. Sort of the main recruiter for the Shattered God's Cult, the warm and reasonable face that's meant to draw people in. Hangs around the Giant's burrow to try and recruit newcomers before they can be scared off, as well as any of the poorer citizens of Hope's Rock that are desperate enough
-- ___
-	- Bard, member of the Artist's guild. Tags along with adventurers they find intriguing, as they hope to compose "a new epic for this strange new era, the likes of which the world has never seen before"
+- Yesri
+	- Halfling bard, member of the Artist's guild. Tags along with adventurers they find intriguing, as they hope to compose "a new epic for this strange new era, the likes of which the world has never seen before"
 - Laslow
 	- Uskian human male, owner of the Shaggy Alligator. Never been an adventurer, but was always friends with many hence his branding for the Shaggy Alligator as a place for adventurer. Quick to make anyone who steps over his threshold feel welcome, and equally quick to put a drink in their hand, and remove a coin from their purse. Firm adherent to the teachings of Taesis
 - Fragile Riddle
 	- Tabaxi Breyzian wizard with a passing interest in architecture and a focus in earth magics. Makes a decent bit of cash carving caves into more home-worthy shapes with magic. Is trying to study Vidrite as, unlike most scholars, they believe that the crystal is magic in some way. Rumoured to have managed to break a piece of the crystal off the walls of the cave.
 - ___
 	- Dragonborn bouncer at the Margrave, Azuran. Rejects anyone that doesn't fit the atmosphere of the place, or just anyone they don't like. Isn't afraid to tell people that last bit, even if they already failed the first criteria.
-- ___
-	- Sculptor and painter, member of the Artist's guild. 3rd child of Karlsan nobility, in self-imposed exile and is attempting to make something of themself, as they know there's nothing for them as a noble who won't inherit. Came to Hope's Rock out of desperation, having heard of it's beauty, and deeply regrets the decision as they have no idea of how they're ever going to leave now. Their art has become notably more abstract and chaotic because of this, though if anything their production rate has increased
+- Daerlin
+	- Dwarven sculptor and painter, member of the Artist's guild. 3rd child of Karlsan nobility, in self-imposed exile and is attempting to make something of themself, as they know there's nothing for them as a noble who won't inherit. Came to Hope's Rock out of desperation, having heard of it's beauty, and deeply regrets the decision as they have no idea of how they're ever going to leave now. Their art has become notably more abstract and chaotic because of this, though if anything their production rate has increased
 - ???
 	- The high priest of the shattered cult. No one seems to have met them other than other high ranking cultists, and they're not talking. It's unknown exactly who they might be, or if they even truly exist.
 - ___ 
@@ -76,7 +76,7 @@
 - Todri
 	- Gnome, owner of the warehouse store on Beholder's Boulevard. Quiet and direct, doesn't have much on their mind other than their business. Keeps extremely close account of the ledgers
 - Alston
-	- Half-orc blacksmith and armourer. Extremely interested in pre-shattering Mikhesal weaponry and armor, as they are all very highly crafted.
+	- Human blacksmith and armourer. Extremely interested in pre-shattering Mikhesal weaponry and armor, as they are all very highly crafted.
 - Siril Novake
 	- level 5 Lirian tiefling wizard, member of the shattered cult that the party interacts with. Known to be rather intense and blunt, not really mincing his words. Fierce scholar and fighter, he can be found either poring over books or wading through monsters.
 	- Not a true believer, but joined the cult just to share any discoveries they make (but not his own) and intends to leave as soon as they've run their usefulness. His goal in life is, simply, to amass as much magical power as he can, until the point of godhood if possible. Is secretely level 10, but hides his real power so people don't consider him a threat.
@@ -84,6 +84,8 @@
 	- Level 5 Caesalan human fighter, adherent to the god Ebor, and serves under Ormen's command. Bounty hunter by trade, came to the tomb out of boredom with his life, and signed onto the priests of Ebor because it fit his own morals
 - Steel Crash
 	- Level 5 Kenku monk/rogue. Acolyte of the priests of Ebor
+- Toxan
+	- Dragonborn druid, functions as the town apothecary and healer when needed. Operates out of a stand on Beholder's Boulevard mostly out of demand than any actual desire, as they had originally come to Hope's Rock as an adventurer to study the plants and the spirits of the place
 
 
 People still needed:

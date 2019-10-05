@@ -26,7 +26,7 @@
 A grey, roughly humanoid creature hunched over, its torso and head covered in heavy armor that looks almost like terracotta. Tusked, with fur poking out from under the armor. Many beady red eyes, long, thin arms and legs that that don't seem to have any joints, wobbling like pieces of rope or tentacle, yet still ending in elongated hands and feet.
 
 hp: 100 +/- 20
-AC: 18
+AC: 17
 str: 10
 dex: 17 (+3)
 con: 8
@@ -47,6 +47,9 @@ Slashing attack: The spirit attacks with one of its arms, telescoping them out a
 Throwing attack: The spirit grabs a target and tosses them against a nearby wall. The target must make a dc 13 dex save, taking 4d6  damage on a failed save. Cannot grab targets further than 40 feet away, and the wall must be within 40 feet of the target.
 regrow (max once per 2 turns, cannot regrow a limb the turn after it was lost): the spirit regrows a limb entirely, taking 7 damage in the process
 Alternate throwing attack: Spirit throws a target at another creature. Both must make a dc 13 dex save, taking 2d6 damange on a failed save. Same range restrictions as the normal throw
+
+#### death
+On death the spirits limbs and eyes crumble to dust, its torso turns to sandstone, and its fur to thin blades of crystal. The terracotta armor does not change
 
 ### K'ell hunter
 Huge velociraptor looking creature, green-brown and 8 feet high at the shoulder. Has no claws or paws, instead mottled iron blades 6 feet long, puckered flesh near the connection as if they were welded on. Travel in "wings" of 3-5

@@ -7,4 +7,28 @@
     - Vorqull
     - Fragile riddle
     - Erdan
-- Eventually head back to the Shaggy Alligator, Bari
+    - Alston
+    - Daerlin
+    - Yesri
+- Eventually head back to the Shaggy Alligator, Bari sends them to the table with Jemar and Saelfine while she finishes directed the kitchen staff
+  - Bari gives them their payment for the dragon (15 gold each) and asks if they want any of the parts that she can't cook (teeth, claws). Mentions that every one of the teeth has a spiderweb of cracks in it
+- Laslow set up a wall of empty barrels to give them a bit of privacy, find Jemar in fine loungewear and Saelfine in light armor and wearing a sword at her hip
+  - Saelfine isn't in full battle gear, these are her everyday clothes
+  - The shortsword looks silvery with a gemstone in the pommel that seems to warp the light around it.
+- Chat about the fouding of the town. Saelfine reminisces on some of the monsters she took down, and companions she lost. Jemar talks about logistics and the engineering of the lift (he has a passing interest in engineering)
+  - Monsters saelfine has killed: the beholder that named beholder's boulevard, a brown dragon, a handful of basilisks, some demons, miscellaneous other aberrations and monsters she doesn't know the names of or are of little importance (some undead, some weird snake things, etc.)
+    - Has also spotted some stranger creatures but not been able to track them down
+    - Notes that monsters get more numerous and tougher the further into the canyons one explores, as does the plant life
+  - Companions lost: Corros (half-elf ranger), Baghull (dragonborn barbarian), Aggith Honestsmasher (goliath fighter), Brave gift (tabaxi monk), Isrim (aasimar cleric)
+- Jemar finds a way to segue into mentioning the priests of ebor and the shattered cult, and mentions the symbol of the cult. He plays the cult off nonchalantly, as does Saelfine, saying that he doesn't think its a great idea to meddle with gods but at the same time if the cult is right it's not a terrible idea to get on the god's good side
+  - Saelfine mentions that the word "cult" is used here since they're too new to be much organized: all they really do is make some vague sermons about not considering broken things to be worthless, and not much else. No one really knows if they even have a proper leader yet, though they claim to
+- Food/drink:
+  - Azuran wine and Karlsan ale on offer, both pretty decent (Jemar abd Bari are footing the bill). Red wine and a richer dark ale with some notes of spices, malt, and coffee
+  - Main is dragon steak, medium rare and cooked in its own juices with caramelized onions, with spiced roast vegetables on the side
+  - Bari: "Part of being a chef is knowing what people need, and tonight you four need comfort food, not another adventure"
+- Jemar will also segue into giving the players a job, investigating dissapearances claimed to be the work of an earth spirit abducting town folk
+- Players sleep the night at the shaggy alligator (8 silver for a room and breakfast, 1 for using the awning/roof thing), and head out in the morning.
+- Talking with the guards at the gate on beholder's boulevard, one of the guards (female gnome), recounts her tale of the spirit abducting her watchmate two nights past. 
+  - She was at the base of the gate during the night shift, while her companion was watching from up top. She heard some movement outside the gate at one point (not unusual, the guards hear a lot at night which is usually just small animals or monsters that are no threat), followed by some loud thumping sounds and a weird screeching noise like that of an eagle. When she went up to the ramparts a couple minutes later to check on her watchmate and muse on what the sounds could be, she found him gone, his shield resting on the wood next to his stool, and she spotted what looked to be a shape leaping through the canyon, faintly visible in the moonlight reflected of the vidrite
+  - Some claim he abandoned his post and is hiding somewhere and the female guard is covering up for him, but the gnome denies this furiously, which the players will believe if they roll insight
+- Players go out beholder's gate and start following the tracks, see the lair document for what happens from here
