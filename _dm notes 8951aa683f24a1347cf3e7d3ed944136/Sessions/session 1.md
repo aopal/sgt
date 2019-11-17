@@ -1,0 +1,32 @@
+# session 1
+
+<!-- - intro: supply caravan approaching the Upper Rock of the shattered god's tomb. 
+- The caravan left from a border town on the southern edge of Caesal. The party joined the caravan as guards, in return for free passage and food until Hope's Rock. -->
+- Intro: party heading north from the Wild Kingdom to Hope's Rock. Open on late morning, just as they sight the town after cresting a hill. The Hope and the lift are immediately noticeable, the Hope glinting in the sunlight, and the lift audible as the party gets closer.
+- As they enter town, the party passes a welcome sign reading: "Welcome to Hope's Rock!" with the tagline "Where adventure is born"
+	- On the bottom of the sign is a population listing. Several numbers have been painted on and crossed out. A piece of paper seems to be the most recent tally, though even that is visibly yellowed and water damaged from age and the elements
+- Party enters town, arrived less than an hour after a supply caravan. A gnome with a clipboard approaches while furiously writing notes, advising the party to take the lift while the cargo is being inventoried and unloaded, before they're forced to wait for all the cargo to be transported, which could take all of today and much of tomorrow.
+- Party (presumably) wanders through town towards the lift. There's not really much to pique their interest, only a handful of homes and administrative buildings, not even a general store or an inn. They are pressured into taking the lift ASAP, while the cargo is being unloaded and inspected
+- Meets and chats with Derik, and the lift conveniently arrives at the top as soon as that conversation finishes. Derik hints at some stuff e.g. people not taking the lift very often (ostensibly because it's a long ride), "why not toss poor ol' Derik a gold coin when you're leaving this place richer than a king"
+- Ride the lift down, describe the walls of the canyons. Any adventurer with a high enough passive perception notices Immog's heartbeat
+- Exit the lift and meet Zatari, who's at a counter beneath a sign reading "arrivals". Learn about the fees. 
+	- May learn how they're enforced, if they're gutsy enough to try and intimidate her
+	- If they try to persuade her, she makes a big show of looking up applicable discounts in a booklet, which a party member might notice is full of blank pages, from which she'll give a maximum discount of 5 sp
+	- 200 exp rp encounter. Party exceeded expectations with the patron thing, get 300 exp
+- Exit the waystation, go wherever they'd like.
+	- Meet Bari in the town square? She leads them to the Giant's Burrow where they meet Saelfine?
+	- If Whistle asks about Bowstring, may eventually learn that Bowstring has been in Hope's Rock for some months, but spends little time in town, not having a taste for high civilization. She is suspected to have a hideout somewhere in the canyons, as she's seen in town infrequently, and often enters town early in the morning. Bowstring is currently not in town.
+- Bari gives them their first quest: one of the new caverns, opened up earlier this morning, a bit down the canyon of Demon's Lane is suspected to contain some kind of reptilian monster. She wants to try out some new recipes that need scales, and would like any other body parts the party can recover
+	- Party finds the cavern, and after a couple chambers empty except for bones, they find a red dragon wyrmling. Roll initiative
+		- Chambers have notably smooth walls, and roughly oval or hemi-spherical in shape. Adventurer may surmise correctly that the chambers look like hollow magma bubbles
+		- Fudge rolls a bit if needed since it's a CR 4 enemy, and they're level 3. Maybe only have it use fire breath if they're doing really well, or else have it do a weak one so they have a good chance of making the save
+		- Wyrmling yells at them in draconic, asking how dare they step foot into its domain. Despite clearly being very young, the wyrmling will attack first unless the party somehow convinces it to stand down (do they even speak draconic?)
+		- Reward: Elemental gem (yellow diamond, summons earth elemental), 200 gp
+		- Detail: If they inspect the wyrmling's corpse, every one of its teeth appear to be cracked, almost like the cracked fang symbol of the shattered god.
+		- The wyrmling weighs a bit over 1000 pounds, Mitch's character is capable of dragging it on his own (drag capacity of 1200 pounds)
+		- Find the corpse of some unknown human adventurer in the wyrmling's lair. Weapons and armor not worth scavenging, though there is a distinct emblem of a white flower on their (much torn and singed) shield
+			- Party may eventually learn, via inquiries in town, that the adventurer is named Vel, a human who showed up in town a few days before the party did, but never returned after going adventuring on their own on their second day in Hope's Rock. Presumed to have died that day, it's unclear how their corpse could have ended up in a cavern that just appeared.
+- Party presumably returns to town sorely battered, with their spoils (or maybe just dragging the entire corpse since Mitch can do that).
+- Return to Bari, who's impressed enough to get them into the Shaggy Alligator early
+	- Meet Ormen and/or Sirvan? Maybe Ormen, to give someone other than Cal something personal-story related
+- If they decide to keep adventuring for a bit, after exiting the first cavern they eventually run across another cavern, a bit further from town.

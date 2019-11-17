@@ -118,7 +118,7 @@ The Town of Hope's Rock was founded on the western edge of the Tomb. Serviced by
 (To be expanded) 
 
 
-<!-- #### The Cult of the Shattered god
+<!-- #### The Cult of the Shattered God
 
 Founded by explorers in the Catacombs. They worship the fallen god of war, Immog, who they believe is not fully dead yet. Do not take kindly to open worship of other gods, and are particularly not fond of the Priests of Ebor. -->
 
