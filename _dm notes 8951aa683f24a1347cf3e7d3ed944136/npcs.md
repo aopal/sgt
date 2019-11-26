@@ -3,7 +3,7 @@
 - One-arm Derik
 	- The affable lift operator who operates the upper end of the lift. Dwarven male, used to be an adventurer but retired after losing his right arm. Warm, friendly and talkative, likes to chat to the adventurers heading down to the Lower Rock.
 	- Either isn't fully aware of the lift debts, or is and doesn't feel any remorse for not warning people. LN.
-- Bishop Ormen
+- Bishop Ormen "Big Armor Boi"
 	- The Bishop leading the Priests of Ebor in Hope's Rock. NG Male Aasimar Paladin, both eloquent philosopher and theologian, as well as a ruthless pragmatist and warrior. Considered to have slightly radical views on Ebor's teachings, his main focus is the question of the balance between peace keeping, and peace making. Seeks to find if there is any truth to the rumour that Immog yet lives.
 	- Unknown to all, including his fellow priests, Ormen is actually the god Ebor incognito. He has left the majority of his power on his plane, and uses high level magic to hides his actually being an Orc. He intends to find the remains of Immog and either acquire any of Immog's power he can, or else destroy the remains if he cannot. He wishes to acquire more power to more directly contend with gods whom he thinks are the enemy of peace. He has spent several decades incognito in his own church, and has come to the conclusion that the non-peacemaking sects are wrong and are not promoting peace, and intents to cleanse said sects from his own clergy once he is done in the Tomb.
 - Zatari
