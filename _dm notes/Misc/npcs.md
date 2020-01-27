@@ -21,8 +21,8 @@
 	- (dge-MAR) Half-orc, founder of the merchants of adventure and self-appointed mayor of Hope's Rock, not that they actually do anything much. Lives in one of the few fully wooden houses, build in a magically excavated cave on his own personal level of the upper street of Demon's Lane. Doesn't stop them complaining about how many steps they have to climb to leave their front door. Only gives the time of day to nobles and adventureres with particularly interesting stories
 	- LE
 - Vorqull
-	- (VORE-cull) Dragonborn, overseer of the farmers in Dragon's Gulch. Not inclined to use many words, but seems surprisingly content with his lot as effectively an imprisoned labourer
-	- Formerly a scribe in the courts of the kingdom of Frairus, now an escaped convict guilty of second degree murder. Came to Hope's Rock because he had no where else to run. Harbors some resentment at his imprisonment on the part of the merchants of adventure, but on the whole finds it vastly preferable to life on the run, as had been his existence for the 5 years before arriving in Hope's rock, about a year before the party did.
+	- (VORE-cull) Dragonborn, overseer of the farmers in Dragon's Gulch. Not inclined to use many words, but seems surprisingly content with her lot as effectively an imprisoned labourer
+	- true neutral, formerly a scribe in the courts of the kingdom of Frairus, now an escaped convict guilty of fraud, forgery, and being an accomplice to grand larceny. Came to Hope's Rock because she had no where else to run. Harbors some resentment at her imprisonment on the part of the merchants of adventure, but on the whole finds it vastly preferable to life on the run, as had been her existence for the 5 years before arriving in Hope's rock, about a year before the party did.
 - Sirvan
 	- (SEAR-vinn) Level 8 male human sorceror, Karlsan. Sort of the main recruiter for the Shattered God's Cult, the warm and reasonable face that's meant to draw people in. Hangs around the Giant's burrow to try and recruit newcomers before they can be scared off, as well as any of the poorer citizens of Hope's Rock that are desperate enough
 - Yesri
@@ -34,7 +34,7 @@
 - Wurash
 	- Dragonborn bouncer at the Margrave, Azuran. Rejects anyone that doesn't fit the atmosphere of the place, or just anyone they don't like. Isn't afraid to tell people that last bit, even if they already failed the first criteria.
 - Daerlin
-	- Dwarven sculptor and painter, member of the Artist's guild. 3rd child of Karlsan nobility, in self-imposed exile and is attempting to make something of themself, as they know there's nothing for them as a noble who won't inherit. Came to Hope's Rock out of desperation, having heard of it's beauty, and deeply regrets the decision as they have no idea of how they're ever going to leave now. Their art has become notably more abstract and chaotic because of this, though if anything their production rate has increased
+	- Dwarven sculptor and painter, member of the Artist's guild. 3rd child of Karlsan nobility, in self-imposed exile and is attempting to make something of himself, as he knows there's nothing for him as a noble who won't inherit. Came to Hope's Rock out of desperation, having heard of it's beauty, and deeply regrets the decision as they have no idea of how he's ever going to leave now. His art has become notably more abstract and chaotic because of this, though if anything their production rate has increased
 - ???
 	- The high priest of the shattered cult. No one seems to have met them other than other high ranking cultists, and they're not talking. It's unknown exactly who they might be, or if they even truly exist.
 - ___ 

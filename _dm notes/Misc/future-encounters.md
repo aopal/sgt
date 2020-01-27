@@ -16,7 +16,7 @@
     - Alternate: path of 3, but one visibly died fighting the dragon, and the one that got the kill is heavily wounded
   - Alternate: the party sees a hunter slice off the wing of a wyrmling as it tries to escape, and finishes with the torso skewering
   - Alternate: the hunter slices open the wyrmling's belly as it tries to fly away, it crashes to the ground, dead, a few feet in front of whatever the party is hiding behind
-- Gazer stronghold. The inside of the cavern starts as a small, natural looking corridor but exits into a room that is perfectly rectangular, with walls made out of some unknown grey material that feels halfway between rock and metal. There are a bunch of tables and bookshelves in the room, but notably no chairs. Light appears to be coming from the ceiling, but it's impossible to tell exactly from where. All the books and miscellaneous pieces of paper on the tables are in an unrecognizable language. In one corner of the room there is a door that opens effortlessly to a much smaller room, where two gazers can be found, who immediately attack. The small room houses what looks to be an altar of unknown origin or deity, with glowing runes of the same script as the books in the main room on the walls. Whatever is written on the wall is done so in the shape of a sinusoidal wave.
+
 
 
 ## Unique monsters

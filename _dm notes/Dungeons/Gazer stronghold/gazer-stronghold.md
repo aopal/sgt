@@ -1,0 +1,25 @@
+# Gazer stronghold
+
+- Gazer stronghold. The inside of the cavern starts as a small, natural looking corridor but exits into a room that is perfectly rectangular, with walls made out of some unknown grey material that feels like rock but looks like metal, and is extremely smooth. 
+  - The ceiling is about 15 feet high, and the walls are covered in floor-to-ceiling bookshelves, all completely full with volumes of various colours and sizes
+  - There are a bunch of tables and bookshelves in the room, but notably no chairs. Light appears to be coming from the ceiling, but it's impossible to tell exactly from where. 
+  - All the books and miscellaneous pieces of paper on the tables are in an unrecognizable language. The language appears to be made up of many glyphs arranged in almost a grid system, so every page is a completely filled rectangle of glyphs, giving no indication of reading direction 
+- All doors are made of a copper-hued rock-metal which split in two and slide into the wall at a single touch, automatically closing behind the party once everyone is through. They move completely silently.
+  - the first door from the main room to the second is slightly different, as it has an eyeball painted in black upon it approximately 5 feet from the ground.
+    - If the players roll preception or investigation, they'll notice a scorch mark on the ground about 2 feet before the door
+    - Trying to open the door like the others, simply by touching them, results in a beam of energy being shot from the painted eyeball towards the scorch mark, which deals 1d6 radiant damage
+    - To open the door the party must raise/lower their eyeball to the height of the painted eye, and stare at it unblinking for a few seconds
+      - Other solutions: touching one's eyeball/eye socket to the door, making the illusion of a giant eyeball via magic
+- A side corridor in this room leads to what looks like a small living area (10x30 feet)
+  - From top to bottom there is a bedroom, then a pantry/kitchen, then another bedroom. Each room is 10x10 feet, and separated by a simple cloth partition
+    - Each "bedroom" has a cushion on the ground that is approx 1.5 meters in diameter, with a low table next to it
+    - The pantry has a few shelves where jars and stone-metal boxes filled with unrecognizable plant and animal parts are stored
+      - If the party tries eating any of these, they
+- In one corner of the room there is a door that opens to another room of similar size, but vastly different decor. All walls and ceiling are in black stone, and the only light comes from the glowing runes that cover the walls, the colour of which seems to shift between red and blue periodically. The small room houses what looks to be an altar of unknown origin or deity. Whatever is written on the wall is done so in the shape of a sinusoidal wave. Two spectators can be found in the room, apparently silent before the altar.
+  - If the spectators notice the party they will call out first in deep speech, and then halting and eerily accented common (they make vowel sounds the party has never heard before), demanding to know who the party is and what they're doing here.
+  - They are wary but will not immediately attack the party, unless attacked first
+  - Their names are Cermu and Irloll. The altar is to Lord Vithdru
+  - The spectators quickly figure out that the party is from another plane than the spectators, but seem to think they are still on their own plane, demanding to know what powerful magic they used to get to their own plane
+    - The party can try to persuade the spectators that it is in fact the reverse, and tell the story of how they found a cavern in the SGT that lead here
+    - The spectators will think this is a lie. If the party fails its persuasion check, the spectators will attack the party for their tresspassing in the library, and for their defilement of their god's sepulchre
+  - each spectator has 30HP, and are LN

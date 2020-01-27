@@ -23,6 +23,8 @@
 		- [Siril Novake (New)](#siril-novake-new)
 		- [Rorvun Cestim (New)](#rorvun-cestim-new)
 		- [Steel Crash (New)](#steel-crash-new)
+		- [Fragile Riddle (New)](#fragile-riddle-new)
+		- [Daerlin (New)](#daerlin-new)
 	- [Locations and Landmarks](#locations-and-landmarks)
 		- [Hope's Rock](#hopes-rock)
 		- [The Lower Rock](#the-lower-rock)
@@ -176,6 +178,12 @@ The Bishop leading the Priests of Ebor in Hope's Rock. Aasimar Paladin, both elo
 
 #### Steel Crash (New)
 Karlsan kenku monk/rogue. Formerly one of the most accomplished thieves in the city of Karlsa, now a monk of the way of shadow travelling the world on a personal quest. This quest led her to Hope's Rock, where she gravitated towards Ormen and became an Acolyte of the priests of Ebor.
+
+#### Fragile Riddle (New)
+Breyzian Tabaxi wizard with a passing interest in architecture, but focuses in earth magics. Makes a decent bit of cash carving caves into more home-worthy shapes with magic. Is trying to study Vidrite as, unlike most scholars, they believe that the crystal is magic in some way. Accomplished adventurer in their own right, but mostly prefers to stay behind the safety of the walls to work on their research.
+
+#### Daerlin (New)
+Dwarven sculptor and painter, member of the Artist's guild. 3rd child of Karlsan nobility, in self-imposed exile and is attempting to make something of himself, as he knows there's nothing for him as a noble who won't inherit. Came to Hope's Rock out of desperation, having heard of it's beauty, and now deeply regrets the decision as he has no idea of how he's ever going to afford to leave. His art has become notably more abstract and chaotic because of this, though if anything his production rate has increased
 
 ### Locations and Landmarks
 
