@@ -1,0 +1,26 @@
+- party planned to head to the northern-ish one of Bowstring's hideout
+- on their way out a guard will comment that the canyons have been a little quiet of late, "maybe we're starting to clear them out, eh?"
+- On their way there they will hear the sounds of fighting, and particularly metal on metal
+- rounding a corner/coming into view they'll see the tail end of combat where a varied group of monsters are just finishing off a couple adventurers
+  - group includes:
+    - 1 imp
+    - 2 centaurs
+    - 1 drider
+    - 1 minotaur
+    - 4 hell hounds
+    - notably, 1 armored humanoid, armed with a spear and shield (use gladiator statblock)
+  - When the party is spotted, the minotaur will yell out, in common, "more adventurers! " and the group will spin around to face the party
+    - the drider, clearly in command will point out an arm and say something in Abyssal, at which point the imp will shapeshift into a raven and fly away
+  - The group of monsters will approach in what is clearly a formation: 
+    - the hellhounds will fan out to the sides, 2 on each, and flank the party. The minotaur, elf and drider will advance down the center with the drider in the middle and a bit behind, the centaurs will stay in the back and use bows exclusively
+    - This group will advance slowly and maintain formation, and the drider will stay behind at first, with a wicked grin
+    - if the party immediately tries to escape the hounds will dash past them and then turn around, pincering them
+    - if they manage to break out somehow, trigger bowstring's entrance
+  - After a couple rounds of combat or one of the party members is looking especially bad, 3 arrows will shoot out from behind the party, hitting the gladiator, drider and minotaur, and a voice will yell out "in here!"
+  - This is bowstring, who'll lead the party into another one of the tunnels, then detonate some sort of alchemy to seal off the end of it and keep them all save
+  - Bowstring will check if they're all safe, and be especially excited to be reunited with Whistle
+    - Bowstring and whistle (and party) chat, presumably. If asked about coming home, bowstring will reluctantly say there's something she needs to do here, there's a mystery to be uncovered
+    - She will also be reluctant to come back to town, saying that if they need to contact her to just visit her hideout
+    - Bowstring will also say there's something new going on: she's seen groups of monsters like these, clearly communicating and organized, but this is the closest to the town she's ever seen them
+  - after this ?????
+  - If the party tries tracking the group of monsters, they'll spot them heading back towards the dead center of the canyons (keeping them in sight but staying unnoticed will be very difficult). 

@@ -1,0 +1,57 @@
+- open on the party in the hidden room in Jemar's house. Most recent events: Combat finished because Chei realized they weren't burglars, Val snuck forward and rearranged some things in Jemar's office so it looked like someone forged some documents in there
+- the plan last session had been to chat with Chei in the next session, I just don't quite remember what about
+- Things that can happen this session:
+  - party presumably leaves jemar's place at some point. No one will stop them, but what they do or do not tell Chei about why they were there will be fun
+  - Shopping, the artificer's magic item shop is open now in the warehouse
+  - visit the warrens, see what the people there have to say
+    - Meet a few servants/bar servers/general working class. All of them would love better conditions, the tomb is pretty much an ancap free-for-all, but don't really believe they have much of a shot of getting it
+    - Meet one particular teenager, a halfling named Danric, who is willing to help.
+      - Danric is very gaunt, unknown to him he's been invested by the power of the Beggar God, who is also unaware of all the other gods meddling in the tomb
+  - get into the margrave, gauge what the upper class's attitude is
+    - Have to get past Wurash to get in. He's wearing a set of glasses with blackened lenses, and has a curly piece of twine going from one ear down under his collar
+      - He read about this aesthetic "in one of those books where there's no magic, but a lot of technology involved. It's a new genre, none of you would have heard of it"
+    - Probably meet Yesri or Walton here, neither of them really give a shit beyond feigning mild interest
+    - A bunch of other nobles who basically won't say anything to them
+  - Sell non-magical armor to the blacksmith. He'll pay extra since its identifiably from the shattering
+  - Get their magic items identified
+    - Alustine, Fragile Riddle, and Siril can all do this. Siril will do it for free, as he's probably trying to work the party into a manipulatable state by now
+  - Visit Alustine's (the artificier) shop, look into buying some magic items
+    - She'll also pay pretty well (~50% of value) to buy any magic items they don't want or need
+  - Look into finding teachers if they want to learn skills and timeskip
+  - Snoop around the mayor's place
+    - It will be empty. minus Chei, assuming they go in during the very heavily telegraphed window
+    - see the main dungeon doc for notes about what happens here
+  - ~If they go out exploring the caverns again, they will eventually run into a group of 4(?) bugbears~
+    - ~These are clearly intelligent and have relatively well-maintained weapons, and the party will see them sending a fifth member around a corner, reporting back to some other entity~
+    - this kinda would need a map, so maybe scratch it for now
+  - If the party goes exploring, they will eventually run across a huge 4-foot long egg. The egg is black, and whatever was in it has hatched, with some clawed foot prints leading away from it
+    - If the follow, they'll lead to a cave with some small pools of water in it, and a black dragon wyrmling
+    - just theatre of the mind it, no lair actions
+  - Check up on the triceratops. They're doing fine, the farmer's are working on building a semi-permanent enclosure for them, and they're munching on some hay
+    - The farmers will ask if the party knows what they eat, as they've just been giving it horse feed for now
+    - Bari may wander by with interest in Trip, and may provide some more information, and swear that unless they want to get rid of them, she won't even dream of cooking them
+  - Talk to the Priests of Ebor, particularly Ormen, about the worker's issues
+    - Rorvun and Steel Crash are gung-ho to help, Ormen will say he needs to think about at "for while I empathize, we did come here with a much larger mission to carry out"
+- Whatever happens the same day as the robbery, if they spend the night in town, the next day Jeeves will show up at their place and say nothing more other than that Jemar would like to see them, on a matter of some urgency
+  - When they reach back at Jemar's mansion, he'll welcome them with all hospitality, and then say "I've a...favour to ask of you all, as you lot seem far more trustworthy than the rest of the measly "Adventurers" in this town, and this job requires...discretion. I was the victim of a break-in yesterday, and the burglars, whoever they were, well it's not important what they did, or what they took rather, just that I'd like them identified so I can have a little chat with them. Now, I can ensure they don't leave the tomb with the items, we search people quite thoroughly on their way out, so it's best if this job was done quietly rather than quickly"
+  - Probably make this happen whether they took anything or not, unless they're especially good at covering their tracks. If they didn't take anything Jemar's dialogue will instead go that nothing was taken, but he'd still like the thieves apprehended
+
+
+What actually happened:
+- party left Jemar's place
+- dressed up to try and get into the margrave
+- Chatted up the bartender for a while
+  - Need a name for this dude, very much a snarky quick-witted kinda guy, but insinuitated he's had some pain in his past
+- Spent a while clowning on Alston
+  - Got invited to a soiree happening in 2 weeks time, guess that'll have to be a thing now that I improved that
+  - Yesri and bowstring exchanged contact info after Yesri burst into laughter because of this
+- Chatted with another noblewoman in the bar who was actually somewhat sympathetic towards wanting some changes in the twon
+  - Part of a mercantile house out of Karlsa, spent a lot of time on ships in her life
+  - Plot hook: She doesn't recognize him, but her family had been preyed on my Jemar's ship several times at one point in the past
+  - Make her relevant to the unionization storyline? The head of the "nobles that don't much care about workers, but want to be in control of the town" faction
+  - need a name
+- Comissioned a saddle for Trip from the blacksmith
+- slept, woke up to Jeeves' visit in the morning
+- Went to Jemar's place, party lost their shit after realizing they're investigating their own crime
+- End after the party claims to have found a clue and leaves Jemar's place
+- Current plan is to head out into the canyons and visit Bowstring's hideout and try to get in contact again

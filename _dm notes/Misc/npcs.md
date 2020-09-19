@@ -19,12 +19,12 @@
 	- CN level 10 half-elf fighter, one of the first adventurers to survive the Catacombs and one of the principal founders of Hope's Rock. Extremely friendly with people who they think have the potential to be worthy adventurers, but has nothing but contempt for the less able. To their view anyone who willingly chooses to come to a place known for extremely dangerous monsters should be ready for it to be a difficult place to live, even if that difficulty is entirely separate from the monsters. In this vein, doesn't see anything particularly wrong with the lift debts, as they think it's a relatively fair price for the cost it took to build the town, both monetary and in blood. Kind of doesn't think about the ethics of only informing people about the debt once they're stuck in the Lower Rock
 - Jemar
 	- (dge-MAR) Half-orc, founder of the merchants of adventure and self-appointed mayor of Hope's Rock, not that they actually do anything much. Lives in one of the few fully wooden houses, build in a magically excavated cave on his own personal level of the upper street of Demon's Lane. Doesn't stop them complaining about how many steps they have to climb to leave their front door. Only gives the time of day to nobles and adventureres with particularly interesting stories
-	- LE
-- Vorqull
-	- (VORE-cull) Dragonborn, overseer of the farmers in Dragon's Gulch. Not inclined to use many words, but seems surprisingly content with her lot as effectively an imprisoned labourer
+	- LE, former smuggler/pirate man-at-arms after fighting his way up from a lookout that turned to "legitimate" business in a sort of retirement. Born dirt-poor but took what he wanted
+- Torrel
+	- wood-elf, overseer of the farmers in Dragon's Gulch. Not inclined to use many words, but seems surprisingly content with her lot as effectively an imprisoned labourer
 	- true neutral, formerly a scribe in the courts of the kingdom of Frairus, now an escaped convict guilty of fraud, forgery, and being an accomplice to grand larceny. Came to Hope's Rock because she had no where else to run. Harbors some resentment at her imprisonment on the part of the merchants of adventure, but on the whole finds it vastly preferable to life on the run, as had been her existence for the 5 years before arriving in Hope's rock, about a year before the party did.
 - Sirvan
-	- (SEAR-vinn) Level 8 male human sorceror, Karlsan. Sort of the main recruiter for the Shattered God's Cult, the warm and reasonable face that's meant to draw people in. Hangs around the Giant's burrow to try and recruit newcomers before they can be scared off, as well as any of the poorer citizens of Hope's Rock that are desperate enough
+	- (SEAR-vinn) Level 8 male [race] sorceror, Karlsan. Sort of the main recruiter for the Shattered God's Cult, the warm and reasonable face that's meant to draw people in. Hangs around the Giant's burrow to try and recruit newcomers before they can be scared off, as well as any of the poorer citizens of Hope's Rock that are desperate enough
 - Yesri
 	- Halfling bard, member of the Artist's guild. Tags along with adventurers they find intriguing, as they hope to compose "a new epic for this strange new era, the likes of which the world has never seen before"
 - Laslow
@@ -34,7 +34,7 @@
 - Wurash
 	- Dragonborn bouncer at the Margrave, Azuran. Rejects anyone that doesn't fit the atmosphere of the place, or just anyone they don't like. Isn't afraid to tell people that last bit, even if they already failed the first criteria.
 - Daerlin
-	- Dwarven sculptor and painter, member of the Artist's guild. 3rd child of Karlsan nobility, in self-imposed exile and is attempting to make something of himself, as he knows there's nothing for him as a noble who won't inherit. Came to Hope's Rock out of desperation, having heard of it's beauty, and deeply regrets the decision as they have no idea of how he's ever going to leave now. His art has become notably more abstract and chaotic because of this, though if anything their production rate has increased
+	- Dwarven sculptor and painter, member of the Artist's guild. 3rd child of Karlsan nobility, in self-imposed exile and is attempting to make something of himself, as he knows there's nothing for him as a noble who won't inherit. Came to Hope's Rock out of desperation, having heard of it's beauty, and deeply regrets the decision as they have no idea of how he's ever going to leave now. His art has become notably more abstract and chaotic because of this, though if anything his production rate has increased
 - ???
 	- The high priest of the shattered cult. No one seems to have met them other than other high ranking cultists, and they're not talking. It's unknown exactly who they might be, or if they even truly exist.
 - ___ 
@@ -44,6 +44,8 @@
 	- Gnome, owner of the warehouse store on Beholder's Boulevard. Quiet and direct, doesn't have much on their mind other than their business. Keeps extremely close account of the ledgers
 - Alston
 	- Human blacksmith and armourer. Extremely interested in pre-shattering Mikhesal weaponry and armor, as they are all very highly crafted.
+- Alustine
+    - Half-elven artificer, the newest arrival in Hope's rock since the party. Rumour is she's going to set up a shop to sell some common and uncommon magical items, likely in Todri's warehouse. 
 - Siril Novake
 	- level 5 Lirian tiefling wizard, member of the shattered cult that the party interacts with. Known to be rather intense and blunt, not really mincing his words. Fierce scholar and fighter, he can be found either poring over books or wading through monsters.
 	- Not a true believer, but joined the cult just to share any discoveries they make (but not his own) and intends to leave as soon as they've run their usefulness. His goal in life is, simply, to amass as much magical power as he can, until the point of godhood if possible. Is secretely level 10, but hides his real power so people don't consider him a threat.
@@ -53,6 +55,13 @@
 	- Level 5 Kenku monk/rogue. Acolyte of the priests of Ebor
 - Supatys
 	- Dragonborn druid, functions as the town apothecary and healer when needed. Operates out of a stand on Beholder's Boulevard mostly out of demand than any actual desire, as they had originally come to Hope's Rock as an adventurer to study the plants and the spirits of the place
+- Danric
+    - Halfling teenager, non-combatant. Unemployed living in the warrens. Seems to be able to survive without eating, and is unconcerned by this fact
+    - unknown to anyone including him, has been noticed by the Beggar god and infused with his power. The beggar god will manipulate him to be very enthusiastic about any social revolution plans
+- Walton
+    - Frairan knight-errant; human, loud, boisterous, very condescening in his frequent exclamations of protecting the common folk. Spends much more time in the Margrave than actually doing any of that protection.
+    - all of his posturing is mostly a bluff, he's really just concerned with weasling his way into the good graces of the lords
+  
 
 
 People still needed:

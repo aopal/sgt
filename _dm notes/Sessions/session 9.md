@@ -1,0 +1,47 @@
+- open on party having just left the mine
+- 2 separate conversations need to happen
+  - Siril, Whistle and the dead guy (Bill, apparently) talk about the cult
+    - Don't do this onscreen, just summarize
+    - Siril will start by asking the dead guy what he remembers from the battle, and after waking up
+    - dead guy: I remember being formed up in ranks, then seeing a flash of light followed my something falling from the sky and unearthly screams thundering all around. Next thing I know I'm down in these caverns, some of my squad around me, and there's a voice whispering in my head
+    - Since Siril knows that Whistle can also understand the dead guy, he'll end things here and say he'll make sure the dead guy is kept safe
+      - Secretly intending to come back later alone, for more information
+  - Loroghan, Val, and Lazak talk outside the mine
+    - Lazak is melancholically thankful. He's glad to get vengeance for Gaz, but it means his people go back to back-breaking work, and is kind of at a loss on how to actually change that
+    - Hopefully, the party mostly leads any sort of planning
+    - Torrel and Lazak say they're mostly just looking for better conditions, fewer hours, and better pay
+    - steel crash will mention there's also all the various other workers and servants in the town, including some effectively homeless people in the warrens
+    - Siril is mostly just there listening, though does pipe up to ask why the workers don't just try to form a council, and actually get a foothold in ruling the town
+      - He's willing to help the workers in order to maybe get power in the town, both for the cult and himself (figures it may be useful towards finding Immog's remains). He knows the power of a mob, even if the other side has weapons and magic
+    - No npc really has a plan of action, that's up to the players
+    - Small things various NPCs might suggest
+      - talk to the mayor, ask him nicely
+        - This won't go anywhere, he'll try to play it off as the party joking, but if they press the issue he'll definitely think worse of them
+      - Siril might suggest getting dirt on the mayor/various other members of the Merchants of Adventure or other otherwise prominent members of the town (Zatari, Saelfine, Laslow)
+        - Siril will mention that there supposedly was a lot of backstabbing in the early days of the town's formation as faction fought for control and the early wealth that was found, 
+        - Torrel will *quietly* mention that she might be of use if they want to frame the guy for something by forging a document
+      - visit the warrens, see what the people there have to say
+        - Meet a few servants/bar servers/general working class. All of them would love better conditions, the tomb is pretty much an ancap free-for-all, but don't really believe they have much of a shot of getting it
+        - Meet one particular teenager, a halfling named Danric, who is willing to help.
+          - Danric is very gaunt, unknown to him he's been invested by the power of the Beggar God, who is also unaware of all the other gods meddling in the tomb
+      - get into the margrave, gauge what the upper class's attitude is
+        - Probably meet Yesri or Walton here, none of them really give a shit
+      - Chat up the adventurers and anyone else they know that might be sympathetic
+        - Daerlin's probably the only one who is actually interested, though he's still upper-ish class and doesn't fully understand why things are so bad. Everyone else just politely tries to worm their way out of things, or just has a "if they want more stuff pick up a sword and kill some monsters" attitude
+  - One other idea that might get given to them: snoop around Jemar's mansion to see if he's up to something
+    - They'll hopefully find the hidden set of rooms
+- Other things to do
+  - Sell non-magical armor to the blacksmith. He'll pay extra since its identifiably from the shattering
+  - Get their magic items identified
+  - Visit Alustine's (the artificier) shop, look into buying some magic items
+    - She'll also pay pretty well (~50% of value) to buy any magic items they don't want or need
+  - Look into finding teachers if they want to learn skills and timeskip
+  - If they want to fight something, Bari might contract them saying that a huge green beast was spotted south-east of the town, and she might be interested to see what it is
+    - They'll find a wounded triceratops with a couple arrows sticking out of its shoulders and hindquarters. Whistle might be able to recognize (or at least suspect) them as belonging to Bowstring
+
+
+What actually happened:
+- named the dead guy Bill
+- decided to lay low for a day or two and then go try to dig up dirt on the mayor
+- explored outside a bit, ran across and befriended the triceratops "Trip", brought it back to town and bought stabling for it
+- went to a tavern to start fomenting rebellion

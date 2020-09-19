@@ -8,3 +8,5 @@ Note: not necessarily mutually exclusive
 - Players prevents one of the first three occurrences
 - Immog is killed by players or Ormen
   - Make Achiel reveal himself at this point?
+- Players ignore Immog's resurrection, focus on the social things in the town instead
+  - doing this may well lead to derailing one of the above scenarios

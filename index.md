@@ -75,11 +75,9 @@ Relatedly, if there's something not in the PHB that you really want to play, fee
 
 ## The World
 
-![](./world.png)
+![](./world-borders.png)
 
-(There are no icons/borders/labels on the map because I'm still fleshing out the larger world)
-
-Note that you will not have this entire map to explore, only a small section (12-15 hexes) around the Shattered God's Tomb. This is just here as it's the only map I have so far. For scale, each hex is 15 miles/24 kilometers across. The world is smaller than Earth, roughly the size of Earth's moon. This puts northern edge of the above map at 20 degrees south, and the southern edge at 70 degrees south. Using Earth as an analogue, the northern edge of the map has the equivalent latitude (though opposite hemisphere) and climate of Mali or India, and the southern edge is equivalent to the northern coast of Alaska or Norway.
+Note that you will not have this entire map to explore, only a small section (12-15 hexes) around the Shattered God's Tomb. For scale, each hex is 15 miles/24 kilometers across. The world is smaller than Earth, roughly the size of Earth's moon. This puts northern edge of the above map at 20 degrees south, and the southern edge at 70 degrees south. Using Earth as an analogue, the northern edge of the map has the equivalent latitude (though opposite hemisphere) and climate of Mali or India, and the southern edge is equivalent to the northern coast of Alaska or Norway.
 
 The Shattered God's Tomb is located on the continent of Athol (ATH-all) in the east. The continent Evras (ev-RASS) is on the west. The continents have been populated for much longer than recorded history, having seen the rise and fall of numerous civilizations, many of whom unfortunately took their knowledge with them. 
 

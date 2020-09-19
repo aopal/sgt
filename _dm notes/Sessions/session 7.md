@@ -1,0 +1,40 @@
+# Session 7
+
+- If they head back to town, there are a couple things they can do
+  - Find Siril in the Giant's Burrow, he'll buy them a drink and explain what the Shattered Cult is all about
+    - The core of their beliefs is to find value in everything, no matter how small or broken it is. Everyone and everything can be fixed through hard work and devotion, though that repairing may be slow.
+      - Siril's speech: "Well, I've never been much of one for sermons, ironic as that may seem. I'm a scholar by trade, they tend to be more lecture style. In any case, let me start off with a question first: since you've arrived here, have you noticed a sort of...thumping sound every now and then?" [answers of yes, presumably] "A lot of people have theories of what that sound is, one adventurer who, uh, passed through this town, as it were, claimed it was the hammering of the great forge of...some other long dead god, I didn't bother to remember its name. To me, that thumping sounds like a heart beat. And the thing is, I've studied magic, and I've studied history, and it takes a lot of power to kill a god, and they can survive much more than a mortal can. Now people have done it in the past, great heroes have managed it. But to kill a god of war, not a god of flowers or what have you, that my friends, would truly be a feat. And thus my conclusion that Immog must be alive, likely reduced and in a dormant state, but somewhere in these canyons."
+      - speech, cont: "As for what we teach, well its a simple philosophy really. The god is broken, shattered into a thousand thousand pieces, but he still lives, and he still has power. This teaches us to seek the value in broken things, as all mortal things are flawed. As we help our god heal and resume his rightful place in the pantheon, so to do we repair ourselves, and achieve our rightful place at his side."
+      - regarding Rorvun's accusation of them being a death cult "I do want to put your mind at ease about the death cult business Rorvun was shouting about, he means well, wonderful fellow. The old priesthood of Immog, back before the shattering, did involve certain sacrifial ceremonies. I mean, god of war, that kind of involves a lot of blood. But I do rather think that now, being intimately aware of what his own blood being spilled feels like, I do rather think that would change his tune once we resurrect him."
+      - Some note that a lot of this seems like rephrasings of the teachings of the beggar king
+      - Siril might mention Torrel, the farmers, and the miners as examples of who the shattered cult is for. Torrel is a member, though also sympathetic to the priests of Ebor
+      - In fact, he'll call Torrel over, and introduce her
+      - Torrel will make a brief and gruff confirmation that "I mean, nobody ever really cares about labourers, do they? I've never been a religious sort of person before, but if someone out there - well not just someone, a god - is willing to fight for me, well favours for favours as they say. I owe him some thanks, now don't I?"
+        - If they ask her about what being trapped in the tomb is like, she'll laugh and do the "Have any of you ever been in a real prison?" bit
+    - If they ask some tougher questions, he'll admit, in a low voice, that he's never one for worship of the gods, he mostly just joined because he thought they were the group most likely to figure out the secrets of the tomb
+      - He'll try to disguise his interest in power as a scholarly interest in the magical phenomena of the tomb
+  - Try to find someone who can identify the writings in the books from the spectator's library
+    - Fragile riddle can identify them as deep speech and is immediately very surprised and apprehensive, demanding to know where the party found them
+      - If satisfied with their explanation, they will offer to buy them for 8gp each, but will also accept any haggling, as they'd very much like those books not to fall into the wrong hands
+        - Even the drier tomes are of value to them as they have interest in history, and even things like crop growth
+    - Siril can also identify them, passes off his interest as mild curiosity, but is willing to pay 12gp each, and potentially haggle
+      - Similarly very, very interested in anything that he can use in those books, and that 
+  - Hear tell of Alustine, the artificier who's setting up a magic items shop. Might be able to meet her, but her shop won't be operational for a couple more days
+
+
+- If they enter the town from the north (or if the enter from another direction they'll hear raised voices), they'll see a goliath (Lazak Bravehand) in work clothes and covered in dust, arguing with Jeeves, Jemar's butler. Lazak appears to be seeking audience with Jemar which Jeeves appears to be attempting to waive off with a "The master is busy right now, I will speak to him for you and you will receive a summons when he is available", to which Lazak responds "I don't care if he's busy, they're killing us! Fine, I get the message, we're not important enough for his lordship to care about" and storms off down to the miner's quarters on Dragon's Gulch
+  - If the party tries to talk to Jemar they'll be granted access almost immediately, Jeeves will recognize them and usher them in quite quickly
+    - Jemar was waiting in the entrance hall, listening in on the altercation outside
+    - Asking Jemar about the incident will result in him waving it off, saying that he'll talk to Lazak eventually, but he considers the miners to be superstitious and trying to get out of work by making up some nonsense about monsters in the mines or some such. 
+    - A distinctly "you know how those people are" kind of attitude, doesn't encourage or offer a reward for looking into it, beyond a vague notion of wanting them back to work
+- Trying to talk to Lazak or finding him later in the miner's quarters in dragon's gulch, he'll explain that he's the de facto leader of the miners, and explain what happened
+  - He is first a bit skeptical that they actually care, or if they're just angling for a reward. He'll sarcastically offer to peir their weight in iron ore and slag
+  - A couple days ago the miners, while following an iron vein, breached a new cavern. widening the opening, the entered to find some old looking corpses, a variety of different humanoids, but too decayed to identify species. The corpses appeared to have died in battle, still wearing slashed up armor, and weapons near them.
+  - After one miner (Gaz) poked one of the corpses, it suddenly rose up and started attacking them. Some of the other corpses slowly started waking as well, so the rest of the crew fled as fast as they could and boarded up the entrance to the mine, leaving their comrade to their fate.
+- Lazak is, despite his outburst with Jeeves, somewhat indifferent to solving the undead problem, and is hesitantly against it even
+  - As he'll say, "Look, I feel terrible for what we did to poor Gaz, and I'd like to get some revenge for them if I can. But the thing is, if the monsters hadn't done them in, the work itself would have instead in rather short order. Me and the crew have been talking, and that's the real problem. The gods have mercy on their soul, but Gaz bought us a much needed break."
+  - Lazak will angle for the party to help the miners, and Torrel and her farmers by association, to get better workers rights and conditions
+- Wherever this conversation takes place, Siril will also show up to offer his help as a member of the Shattered cult
+  - He'll outwardly be excited to see and maybe fight alongside the party (he wasn't going to go in alone), but will also make a snide comment about them maybe preferring the aid of the priests of Ebor
+  - The party can likely get the aid of either Rorvun, Steel Crash or Siril for the dungeon if they please (Ormen will only allow one of the two of Rorvun and Steel Crash to go)
+    - If the party explains the full situation to Ormen, he is sympathetic to Lazak's plight, and hesitantly offers to lend his voice and authority towards improving the workers' situation

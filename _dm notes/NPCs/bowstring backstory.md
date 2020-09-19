@@ -1,0 +1,3 @@
+- got bored of her provincial life, started having dreams about the tomb after a traveller told a few stories about it. These dreams recurred, leading to her departure
+  - these dreams were actually sent by Achiel expressely to influence her, as the god figured someone of her level of curiosity and ability to survive in hostile environments would be useful in orchestrating a tragedy in the tomb
+  - and besides, he got a small family tragedy out of it too, which is always fun

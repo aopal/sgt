@@ -1,0 +1,41 @@
+- rooms:
+  - entrance hall/foyer
+  - small-ish bedroom
+  - large living room/kitchen/hosting area
+- hidden rooms:
+  - (unused) cell or dungeon (bottom right)
+  - storage (the little nook, the room connected to the main part of the dwelling)
+  - trophy room/weapon storage/vault (large room)
+  - Office (bottom left)
+  - wine cellar (top left)
+- What they might find:
+  - Main part of the house:
+    - find a very gaudy living room but relatively modest and cozy bedroom. Distinctly lacking in either personality or taste. There is furniture, that's it.
+    - They will notice the lack of an office or any sort of documents, and the lack of the head of the hoppy earth spirit they sold Jemar
+  - hidden rooms:
+    - The cell is looks like it hasn't been in use in a while, if ever, and is covered in a fine layer of dust. The door into the area creaks from disuse. There are iron bars, behind which is a simple cot and a set of open manacles nailed into the wall. The kind of guy that makes a hidden dungeon as a just-in-case measure is kinda worrying though
+    - The trophy room contains several pieces of armor, shields, weapons, jewelry, monster parts, paintings, heraldry & flags,and etc. Also includes the earth spirit's head
+      - Much of the armor, though all polished well, has distinct gashes, dents, and other marks of battle. The players may intuit correctly that the cause of the damage is the cutlass in the office
+      - At the end of the hall is a guard named Chei sitting on a stool, who is a very solid Lawful Dumbass. They will greet the party cheerfully if spotting them, and ask if they are burglars. If they claim to be literally ANYTHING else they'll just happily pay them no mind, and chat amicably. 
+        - They will immediately believe any story the players give so long as it isn't being burglars. They will also happily oblige any requests from the players, such as not telling Jemar that they were here
+        - If by some miracle they manage to end up fighting Chei, use Rorvun's character sheet, though Chei only uses a shortsword and a shield. They won't use their second wind feature though
+    - The office has a very nice desk with many drawers. The wall behind it has a clearly sunbleached and tattered Jolly Roger. There is also a metal safe in one corner, and a very fine cutlass rests in a case
+      - A brief search through the papers and letters here won't reveal much, other than confirming jemar is formerly a pirate. 
+        - There will be letters from someone who only identifies themself with a stylized "Captain C." at the end of the letter
+        - They will find contracts and letters from years past discussing the original construction of the town
+      - Anything jucier will take more investigation to find if it exists, which is to say I'll decide if it exists later
+        - The most they'll find is a few letters dated relatively recently that appear to show that Jemar is still involved in some amount of smuggling throughout several nearby nations
+          - In specific they'll find some shipping manifests that appear to be rather poorly coded, such as pages that list items such as 'Loose "Gravel" (2 lbs.) ..... 10,000 gold' and ''
+      - Inside the safe is a pouch of gemstones, an amulet of some kind, and a small sheaf of letters. The letters are all sealed in wax with a signet ring pressed into the wax, the symbol of a bird taking flight. The letters are addressed to many different people, many unfamiliar to the players, but some to people they've encountered (Zatari, Belzin, Laslow). They'll find a ring with this same design in the safe as well
+    - the wine cellar is just a wine cellar, though there's some whiskey and other spirits there too. All very good stuff.
+- other notes:
+  - If they take anything of note that Jemar would notice is missing, have Jemar later contract them to find the thief?
+    - Definitely do this, and have Jeeves show up at their place the next morning saying "My master would like a word with you 3. Rather quickly if you don't mind."
+    - When they reach back at Jemar's mansion, he'll welcome them with all hospitality, and then say "I've a...favour to ask of you all, as you lot seem far more trustworthy than the rest of the measly "Adventurers" in this town, and this job requires...discretion. I was the victim of a burglary yesterday, and the thieves took some things I'd very much like retrieved without word getting out they were even stolen. Now, I can ensure they don't leave the tomb with the items, we search people quite thoroughly on their way out, so it's best if this job was done quietly rather than quickly"
+    - Probably make this happen whether they took anything or not, unless they're especially good at covering their tracks. If they didn't take anything Jemar's dialogue will instead go that nothing was taken, but he'd still like the thieves apprehended
+
+
+- moving signet ring from safe to the desk
+- moving ink stand from the right to left side of the desk
+- taking blank paper
+  - All in all, making it look like someone was forging stuff

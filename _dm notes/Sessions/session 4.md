@@ -1,7 +1,7 @@
 # session 4
 
 - Open with the party still in the cave, just finished off the dust mephits
-- If asked, Rorvun gives them their first solid lead on Bowstring: the exact location of one of her hidey-hole
+- If asked, Rorvun gives them their first solid lead on Bowstring: the exact location of one of her hidey-holes
   - yes, one of. He has reason to believe she has at least one other
     - [insert really obvious logic that Rorvun thinks he's a genius for figuring out]
   - As soon as Whistle says something like "I'm looking for this kenku/my sibling," Rorvun immediately makes the connection and says "Oh, you're Bowstring's sibling?"

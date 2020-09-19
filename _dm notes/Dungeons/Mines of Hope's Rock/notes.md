@@ -1,0 +1,18 @@
+- the party will pass piles of rubble, abandoned carts and mining equipment. A few lanterns can be found, though gone out by now
+- the rightmost cavern was recently broached by miners, revealing the undead remains of a squad of Mikhesal soldiers present at the shattering, and many of their weapons and armor as well
+  - only some of these appear to have been resurrected
+- enemies in the dungeon:
+  - 3 wights
+  - 1 redead knight
+- rewards:
+              - Wand of the war mage (+1)
+  - potion of healing
+  - potion of greater healing
+  - Pieces of Adamantine armor (adamantine splint mail, 17 ac and immunity to critical hits, from a corpse that didn't reanimate)
+  - Javelin of Lightning
+  - boots of spider climbing ?
+  - redead's greatsword (2d6+1)
+- Also in the cavern, on corpses that didn't animate
+  - shortsword 4x, pike 3x, medium armor 6x
+    - Looking at the armor the party can clearly see two different but similar styles and two different sigils on the armor
+      - One sigil is a fang crossed with a sword, the other is a crown on top of a sun

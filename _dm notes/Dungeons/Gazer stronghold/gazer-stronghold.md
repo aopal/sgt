@@ -14,7 +14,8 @@
   - From top to bottom there is a bedroom, then a pantry/kitchen, then another bedroom. Each room is 10x10 feet, and separated by a simple cloth partition
     - Each "bedroom" has a cushion on the ground that is approx 1.5 meters in diameter, with a low table next to it
     - The pantry has a few shelves where jars and stone-metal boxes filled with unrecognizable plant and animal parts are stored
-      - If the party tries eating any of these, they
+      - If the party tries eating any of these, they are edible but deal 1d4-1 poison damage
+      - Bari will buy these for 10 gp a jar
 - In one corner of the room there is a door that opens to another room of similar size, but vastly different decor. All walls and ceiling are in black stone, and the only light comes from the glowing runes that cover the walls, the colour of which seems to shift between red and blue periodically. The small room houses what looks to be an altar of unknown origin or deity. Whatever is written on the wall is done so in the shape of a sinusoidal wave. Two spectators can be found in the room, apparently silent before the altar.
   - If the spectators notice the party they will call out first in deep speech, and then halting and eerily accented common (they make vowel sounds the party has never heard before), demanding to know who the party is and what they're doing here.
   - They are wary but will not immediately attack the party, unless attacked first
