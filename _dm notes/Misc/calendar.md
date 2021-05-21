@@ -49,6 +49,7 @@ Day 4:
 - Discover a library filled with books in an unknown language, and two beholderkin that the party kills
 - After using magic to talk to their corpses, the party finds out the spectators are from a different plane entirely
 - Leave a note for Bowstring in the tunnel leading to the library
+- **END OF ARC THE FIRST**
 - **Session 7 begins:**
 - Party heads back to town, arrives as a miner is arguing with the mayor about a monster that's been attacking them
 - Party offers to help the miners

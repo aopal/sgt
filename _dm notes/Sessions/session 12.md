@@ -24,3 +24,10 @@
     - Bowstring will also say there's something new going on: she's seen groups of monsters like these, clearly communicating and organized, but this is the closest to the town she's ever seen them
   - after this ?????
   - If the party tries tracking the group of monsters, they'll spot them heading back towards the dead center of the canyons (keeping them in sight but staying unnoticed will be very difficult). 
+
+
+what actually happened:
+- party ventures out, tries talking to the monsters
+- bowstring reveals herself, thinks the party is being attacked, but Whistle is able to talk her down from starting a fight
+- Party and monsters agree to attempt a truce between the two towns, with the minotaur (Kilo), Matt and bowstring accompanying the party back to town
+- end on the party about to walk up to their home with the priests of ebor

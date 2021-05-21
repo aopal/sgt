@@ -1,0 +1,24 @@
+## Session 19
+- In the morning, wake up and talk to some people
+  - Talk to Bishop Ormen about the 4 gods messing with them
+    - He's able to confirm that at least Immog has had some influence on them, but everyone who's spent time in the canyons gets his aura on them
+    - Party seems to catch him off guard when they ask him if his god might be one of them
+  - Siril tries to pitch them on the shattered cult, and gives them a leaflet about a meeting for new members happening in 4 days time\
+- Leave town, head along the southern edge of the canyons, heading east
+- Run into a very aggressive goose, which the party shooes into a nearby cave
+- Witness a meteor fall into the canyon and impact the wall, shattering the vidrite
+  - The party grabs as many pieces as they can, leaving some large shards
+- Spend the night in a cave, wake up to discover their coin purses empty, and replaced with a mix of acorns and twigs
+  - after deciding not to pursue the thieves, run across a group of squirrels holding a couple gold pieces
+- Find a cave with some gold spilling out of it
+  - cautiously enter it, see a bunch of treasure, some of which is on pedestals
+  - End up taking
+    - 3 treasure chests worth of gold
+    - a set of vampire armor
+    - A pair of boots of dwarvenkind
+    - a ring of microscopic invisibility
+    - a brass oil lamp
+    - a cup of endless liquid
+- Run across the wreck of a giant mech, very large slash marks from claws visible on the side
+  - Loroghan takes the sword the mech was using
+- Arrive back at the monster town, give some of the vidrite to Lia, and get her to identify some of the stuff they found in the gold cave
