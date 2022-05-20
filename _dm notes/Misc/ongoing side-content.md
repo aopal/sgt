@@ -29,3 +29,28 @@
   - Some sidequests:
     - note form Bari offering gold for carcasses of rare creatures
     - poster from Fragile Riddle offering gold for a piece of vidrite
+
+
+Effects of vidrite 
+- Liquid vidrite only hardens with heat + pressure - e.g. being heated and worked in a forge, or the heat and pressure of the explosion at Immog's "death"
+- forged into a weapon: +2 magic weapon that does an extra die of the weapon's damage as fire damage
+- Forged into armor: +1 armor that grants resistance to slashing, piercing, bludgeoning & fire damage
+- inhaled (powder): Applies the effect of barbarian rage at level 1, except
+  - the damage bonus is a +3
+  - damage bonus can be applied to dex attacks as well
+  - attempting to use powder again before a long rest does nothing except apply one level of exhaustion
+- ingested (liquid): Applies the effect of tenser's transformation?
+- ingested (solid): 
+- applied as a tattoo: 
+- if used to make a spellcasting focus: 
+  - +2 to spell attacks & save throw DCs. In addition, choose 1 cantrip and 1 1st-level spell. At most once per round when you cast either of these spells, you may apply the effect of either the quickened spell or twinned spell metamagic effects. You can swap the spells that gain this feature after a long rest
+
+  - empowerment: Spell attacks either work at a +2 or increase save DC by +2 as appropriate. Spells that can be used on multiple targets can affect one more target than usual.
+  - duration: spells with a duration other than instantaneous have their duration doubled. All spells have their casting time reduced by one tier: action -> bonus action, 1 minute-> action, 10 minutes -> 1 minute, and longer amounts of time get halved. Spells that already had a casting time of a bonus action or reaction are unaffected
+
+
+(Some) of the uses for vidrite:
+
+When forged into a weapon: results in a +2 magic weapon that does an extra die of the weapon's damage as fire damage
+When forged into armor: results in +1 armor that grants resistance to slashing, piercing, bludgeoning & fire damage
+When added to a spellcasting focus: results in a focus that grants +2 to spell attacks & save throw DCs. In addition, choose 1 cantrip and 1 1st-level spell. At most once per round when you cast either of these spells, you may apply the effect of either the quickened spell or twinned spell metamagic effects. You can swap the spells that gain this feature after a long rest

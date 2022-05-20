@@ -1,0 +1,5 @@
+- Open on party having just arrived at the monster town
+- Chat with Lia about the party, and give her some more vidrite. She's been working on getting herself free with steady progress, but she's not there yet
+- She suggests Kilo, a dragon, or Gell (the very friendly mindflayer)
+  - party ends up inviting Kilo and Gell
+- Party kills Siril after running into him in the canyons

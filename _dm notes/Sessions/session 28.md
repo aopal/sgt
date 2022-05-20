@@ -1,0 +1,6 @@
+- party returns the sphinx to her cave before it dissappears
+- discusses the meeting with immog, trying to figure out who's safe to tell about him being alive
+  - Lia seems the best bet
+- Head back to town
+- run into the shattered cult and have a sparring match with them, win
+- get back to town, run into Bari who accuses them of being the ones who summoned the balhannoth that broke through the gates the previous day

@@ -15,11 +15,11 @@ section 1:
 - room at the middle left is an old cellar. There are a couple barrels of wine and some fungus growing on what may have once been potatoes and onions. There's a strong smell of alcohol (there's some extremely high quality vodka to be found here). There is a locked door into the catacombs
 - catacombs contain various coffins embedded into the walls.
   - The giant spiders will attack the party here
-- room in the bottom right: two torches still lit with a magical blue fire. An ornate coffin is interred hereup a small flight of stairs
-  - If the party opens the coffin they'll find the corpse of a knight (paladin). The weapons armor and shield are rotted away, but they'd be able to get a medallion of thoughts here. The shield bears the old sigil of Immog, a dragon's fang wreathed in fire
+- room in the bottom right: two torches still lit with a magical blue fire. An ornate coffin is interred here up a small flight of stairs
+  - As the party approaches the coffin an sword wraith commander will emerge, bearing weapons, a medallion of thoughts and a shield with the old sigil of immog, a dragon's fang wreathed in fire
 
 section 2:
-- room on the left holds 3 coffins, and a large mirror completely covering the wall opposite. Unless the party notices a trapped pressure plate (DC 15), the doors lock behind them upon entering. If they investigate carefully they'll notice that there's a small metal orb lying on the ground that is in the room but not visible in the mirror, and a small pedestal in one corner that only appears in the mirror. Putting the orb on the pedestal, which the players cannot see or feel but the orb can interact with, unlocks the doors
+- room on the left holds 3 coffins, and a large mirror completely covering the wall opposite. Unless the party notices a trapped pressure plate (DC 15), the doors lock behind them upon entering. If they investigate carefully (DC 12) they'll notice that there's a small metal orb lying on the ground that is in the room but not visible in the mirror, and a small pedestal in one corner that only appears in the mirror. Putting the orb on the pedestal, which the players cannot see or feel but the orb can interact with, unlocks the doors
 - Room to the right of that looks to be an old armory and training ground. there are a variety of weapons strewn about, including a handful of +1 magic weapons (mostly daggers and swords - the party probably has better gear already)
 
 section 3:
@@ -30,6 +30,8 @@ section 3:
 
 section 4:
 - coffin in top right contains a deathlock, who will creep out of it's coffin unless the party is in stealth
+  - If they weren't in stealth or else fought the basilisk (with noticeable noise) before running into the deathlock, it will instead have just barely had time to rise out of it's coffin and cast disguise self to try and appear as just a regular human. It will claim that it wandered into this temple and can't find its way out
+    - It won't know a single thing about the canyons though
   - This coffin is noticeably given the most importance in these catacombs, on a raised dais and a chamber actually cut with precision
   - Raise AC to 16, HP to 72-80 and add charisma modifier to eldritch blasts
   - drop invisibility for fireball
@@ -51,3 +53,5 @@ section 6:
   - room to the east is a small living room once used by priests.
     - Room to the south of that is a small living quarters with cramped bunks 
 - Room to the south of the dining hall is a prayer room. Several old incense burners can be found here, depictions of Immog on the wall, and an illuminated book on a pedestal, still open
+  - The book is an old book of Immog's teachings. if they translate it (fragile riddle can) it'll be just droning on about the value of strength and conquest, the inherent morality lended by a person's ability, etc.
+  - Deeper investigation (maybe later) of this book will reveal that Immog took up the mantle of war god from somewhere else. In the story leading up to Immog's ascension he's described as relatively peaceful for a red dragon - the implication that either a) the intent of the power warped him or b) the expectations of him being a war god affected his nature

@@ -61,6 +61,15 @@
 - Walton
     - Frairan knight-errant; human, loud, boisterous, very condescening in his frequent exclamations of protecting the common folk. Spends much more time in the Margrave than actually doing any of that protection.
     - all of his posturing is mostly a bluff, he's really just concerned with weasling his way into the good graces of the lords
+- Lady Azure
+  - Nouveau riche noblewoman from Karlsa, formerly a ship's captain. Was never able to confirm her suspicious, but she's pretty sure the pirate she ran afoul of in the past was in fact Jemar
+- Shana
+  - the party's sponsor, and old friend of Azure. Center-right liberal and the merchant of adventure's candidate for the mayoral election. Half-elf seasoned politician from Kithcaryn, thinks she's the best choice for getting the town organized
+- Sho
+  - Female lizardfolk, death cleric of Achiel. Views her role as Achiel's sword as her performing a truly sacred duty: death is a natural part of life, and she grants the gift of death to people. She views dying in someone else's scheme positively: she grants death that has a meaning, that has a place in a story, instead of just dying because that's what happens. Dying early is not sad, and almost better than dying at an old age: you get to explore the afterlife in your prime
+  - ~10th level
+- Jean-Paul
+  - druid with a connection to Ilin, distant relative of Val's
   
 
 

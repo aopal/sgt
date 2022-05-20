@@ -1,0 +1,17 @@
+- still at the party
+  - I think Eljay mentioned wanting to try out the poker game?
+- Gell will stumble into the players, extremely drunk and profusing what a great time he's having. The players will quickly notice that his illusion is wavering and on the verge of crumbling
+  - Unless they can somehow stabilize the illusion very quickly (no idea how they'd do this), it'll vanish within seconds, and other partygoers will notice immediately, and realize that what they're now looking at is Gell's true form pretty quickly
+  - Genuinely want the party to smooth this over somehow and convince the partygoers that they have nothing to fear from Gell and Kilo's town. Ormen's word will probably help with this
+- At some point after Gell's accident, get the party to roll perception. On a success (DC 13?), they'll hear screaming from outside, which most other partygoers will either not hear, or ignore as people in the party itself screaming
+  - Assuming the party goes to investigate, they'll find a Balhannoth (re-skin slightly to be size huge) has just crashed through the town gates closest to the Margrave, and the town guard are already completely routed and sent into retreat by the creature
+  - Though Bari will immediately join the fight as well, the party will presumably not do too hot against it (maybe fudge dice rolls so the creature gets a round in advance - or gets a surprise round because it's right fucking there as soon as the party exits the tavern)
+  - When the party is feeling the heat, Ormen will finally come out of nowhere and finish the thing off in a single hit
+    - He's going to mask this as a full power divine smite that any paladin could employ, but of course this is like swatting a flea for him, and will visibly not break a sweat or seem overly concerned
+    - His late appearance will be from him trying to figure out if Steve had a hand in this (he did, but Ormen won't figure that out)
+- Fallout of this event:
+  - Bari and Manny will get a significant boost in the polls, having been seen either fighting the monster or risking their life to help get people out of the way in Manny's case
+  - The town as a whole, having found out that the other town is full of supposedly nice monsters, will interpret this event as an attack from the other town. Depending on how well the party's presumable attempts to calm the situation down go, Gell and Kilo might be taken as hostages/prisoners by some would-be acting government for the town
+    - The townsfolk will probably try to yell at Ormen to do this, as the person facilitating the election he's the natural choice to be a de-facto interim leader for the town. Being more concerned with Immog, Ormen will do this just so he doesn't have to deal with the issue
+    - If the party rolls badly enough to get to this point, it'll be Manny Barkeep specifically requesting this.
+    - Would kinda love the party to try and stop him somehow

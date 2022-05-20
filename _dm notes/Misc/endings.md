@@ -3,6 +3,7 @@ Note: not necessarily mutually exclusive
 
 - Immog is ressurected
 - Siril acquires Immog's power and ascends
+  - That one ain't happening any more
 - Ormen acquires Immog's power, reveals himself, and goes on his cleanse
 - Player acquires Immog's power and ascends
 - Players prevents one of the first three occurrences
